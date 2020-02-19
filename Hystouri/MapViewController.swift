@@ -5,10 +5,10 @@
 //  Created by Isaac Bredbenner (student LM) on 2/18/20.
 //  Copyright © 2020 Isaac Bredbenner (student LM). All rights reserved.
 //
-
+import MapKit
 import UIKit
 
-class ViewController: UIViewController {
+class MapViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

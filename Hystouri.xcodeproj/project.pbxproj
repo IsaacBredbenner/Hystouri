@@ -9,12 +9,15 @@
 /* Begin PBXBuildFile section */
 		52B8979C23FC665E001CC298 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B8979B23FC665E001CC298 /* AppDelegate.swift */; };
 		52B8979E23FC665E001CC298 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B8979D23FC665E001CC298 /* SceneDelegate.swift */; };
-		52B897A023FC665E001CC298 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B8979F23FC665E001CC298 /* ViewController.swift */; };
+		52B897A023FC665E001CC298 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B8979F23FC665E001CC298 /* MapViewController.swift */; };
 		52B897A323FC665E001CC298 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52B897A123FC665E001CC298 /* Main.storyboard */; };
 		52B897A523FC6664001CC298 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52B897A423FC6664001CC298 /* Assets.xcassets */; };
 		52B897A823FC6664001CC298 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52B897A623FC6664001CC298 /* LaunchScreen.storyboard */; };
 		52B897B323FC6665001CC298 /* HystouriTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B897B223FC6665001CC298 /* HystouriTests.swift */; };
 		52B897BE23FC6665001CC298 /* HystouriUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B897BD23FC6665001CC298 /* HystouriUITests.swift */; };
+		534BF07823FDC25A00D7402E /* RateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534BF07723FDC25A00D7402E /* RateViewController.swift */; };
+		534BF07A23FDC29500D7402E /* ForYouViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534BF07923FDC29500D7402E /* ForYouViewController.swift */; };
+		534BF07C23FDC2B600D7402E /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534BF07B23FDC2B600D7402E /* ProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,7 +41,7 @@
 		52B8979823FC665E001CC298 /* Hystouri.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hystouri.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		52B8979B23FC665E001CC298 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		52B8979D23FC665E001CC298 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		52B8979F23FC665E001CC298 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		52B8979F23FC665E001CC298 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		52B897A223FC665E001CC298 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		52B897A423FC6664001CC298 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		52B897A723FC6664001CC298 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -49,6 +52,9 @@
 		52B897B923FC6665001CC298 /* HystouriUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HystouriUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		52B897BD23FC6665001CC298 /* HystouriUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HystouriUITests.swift; sourceTree = "<group>"; };
 		52B897BF23FC6665001CC298 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		534BF07723FDC25A00D7402E /* RateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RateViewController.swift; sourceTree = "<group>"; };
+		534BF07923FDC29500D7402E /* ForYouViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForYouViewController.swift; sourceTree = "<group>"; };
+		534BF07B23FDC2B600D7402E /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,11 +107,14 @@
 			children = (
 				52B8979B23FC665E001CC298 /* AppDelegate.swift */,
 				52B8979D23FC665E001CC298 /* SceneDelegate.swift */,
-				52B8979F23FC665E001CC298 /* ViewController.swift */,
+				52B8979F23FC665E001CC298 /* MapViewController.swift */,
+				534BF07723FDC25A00D7402E /* RateViewController.swift */,
 				52B897A123FC665E001CC298 /* Main.storyboard */,
 				52B897A423FC6664001CC298 /* Assets.xcassets */,
 				52B897A623FC6664001CC298 /* LaunchScreen.storyboard */,
 				52B897A923FC6664001CC298 /* Info.plist */,
+				534BF07923FDC29500D7402E /* ForYouViewController.swift */,
+				534BF07B23FDC2B600D7402E /* ProfileViewController.swift */,
 			);
 			path = Hystouri;
 			sourceTree = "<group>";
@@ -259,8 +268,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				52B897A023FC665E001CC298 /* ViewController.swift in Sources */,
+				534BF07C23FDC2B600D7402E /* ProfileViewController.swift in Sources */,
+				52B897A023FC665E001CC298 /* MapViewController.swift in Sources */,
 				52B8979C23FC665E001CC298 /* AppDelegate.swift in Sources */,
+				534BF07823FDC25A00D7402E /* RateViewController.swift in Sources */,
+				534BF07A23FDC29500D7402E /* ForYouViewController.swift in Sources */,
 				52B8979E23FC665E001CC298 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

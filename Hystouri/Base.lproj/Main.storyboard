@@ -1,24 +1,193 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13122.16" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13104.12"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--Map View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="MapViewController" customModule="Hystouri" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" xcode11CocoaTouchSystemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <subviews>
+                            <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="EWy-DQ-UiC">
+                                <rect key="frame" x="0.0" y="779" width="414" height="49"/>
+                                <items>
+                                    <barButtonItem title="Map" id="4lT-bo-IIx"/>
+                                    <barButtonItem title="Ratings" id="WFd-N6-xB9">
+                                        <connections>
+                                            <segue destination="O14-HD-IGT" kind="show" id="Aab-DW-rBS"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem title="ForYou" id="95r-l6-hhk">
+                                        <connections>
+                                            <segue destination="7dO-W1-G91" kind="show" id="Hq2-fB-ezK"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem title="Profile" id="bxq-0o-XsD">
+                                        <connections>
+                                            <segue destination="BRo-8y-zhl" kind="show" id="4c5-df-7MJ"/>
+                                        </connections>
+                                    </barButtonItem>
+                                </items>
+                            </toolbar>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="EWy-DQ-UiC" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="mxm-0F-to8"/>
+                            <constraint firstItem="EWy-DQ-UiC" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" constant="20" id="oar-gM-ck7"/>
+                            <constraint firstItem="EWy-DQ-UiC" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="veP-A4-rOP"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <navigationItem key="navigationItem" id="rdE-hF-Ibn"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="-710" y="115"/>
+        </scene>
+        <!--For You View Controller-->
+        <scene sceneID="kLh-AI-ZmY">
+            <objects>
+                <viewController id="7dO-W1-G91" customClass="ForYouViewController" customModule="Hystouri" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Pc1-Ob-eDg">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="SXY-0K-t8P">
+                                <rect key="frame" x="0.0" y="779" width="414" height="49"/>
+                                <items>
+                                    <barButtonItem title="Map" id="pzw-dK-DaU">
+                                        <connections>
+                                            <segue destination="BYZ-38-t0r" kind="show" id="N6h-o3-Eof"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem title="Ratings" id="qJN-7h-BsI">
+                                        <connections>
+                                            <segue destination="O14-HD-IGT" kind="show" id="M6l-j1-VKh"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem title="ForYou" id="gCj-SI-BA1"/>
+                                    <barButtonItem title="Profile" id="1B7-Or-hdQ">
+                                        <connections>
+                                            <segue destination="BRo-8y-zhl" kind="show" id="QSe-0v-gC6"/>
+                                        </connections>
+                                    </barButtonItem>
+                                </items>
+                            </toolbar>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="SXY-0K-t8P" firstAttribute="leading" secondItem="2FC-5L-7gS" secondAttribute="leading" id="3Ay-ic-64A"/>
+                            <constraint firstItem="SXY-0K-t8P" firstAttribute="trailing" secondItem="2FC-5L-7gS" secondAttribute="trailing" id="DVv-Op-o5Q"/>
+                            <constraint firstItem="SXY-0K-t8P" firstAttribute="bottom" secondItem="2FC-5L-7gS" secondAttribute="bottom" constant="20" id="Mx0-KZ-0Hl"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="2FC-5L-7gS"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="iqo-z3-Ec0"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="GHD-wH-LWT" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="188" y="404"/>
+        </scene>
+        <!--Profile View Controller-->
+        <scene sceneID="7Wy-yz-95B">
+            <objects>
+                <viewController id="BRo-8y-zhl" customClass="ProfileViewController" customModule="Hystouri" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="1MJ-Yb-LkL">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="I2I-bO-oTM">
+                                <rect key="frame" x="0.0" y="779" width="414" height="49"/>
+                                <items>
+                                    <barButtonItem title="Map" id="UCf-c7-K3e">
+                                        <connections>
+                                            <segue destination="BYZ-38-t0r" kind="show" id="yvY-Sv-Ptk"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem title="Ratings" id="JBu-Bn-7WS">
+                                        <connections>
+                                            <segue destination="O14-HD-IGT" kind="show" id="GEw-uO-WdA"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem title="ForYou" id="yxv-We-sCf">
+                                        <connections>
+                                            <segue destination="7dO-W1-G91" kind="show" id="rII-nq-NZY"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem title="Profile" id="i3O-3x-Ndf"/>
+                                </items>
+                            </toolbar>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="I2I-bO-oTM" firstAttribute="bottom" secondItem="uAR-MW-XMF" secondAttribute="bottom" constant="20" id="fXf-zr-hDl"/>
+                            <constraint firstItem="I2I-bO-oTM" firstAttribute="trailing" secondItem="uAR-MW-XMF" secondAttribute="trailing" id="kKz-Xb-NCP"/>
+                            <constraint firstItem="I2I-bO-oTM" firstAttribute="leading" secondItem="uAR-MW-XMF" secondAttribute="leading" id="q2X-Md-0da"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="uAR-MW-XMF"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="3cr-Rh-oQx"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="XDs-W5-UrI" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="978" y="109"/>
+        </scene>
+        <!--Rate View Controller-->
+        <scene sceneID="Ylt-lm-B29">
+            <objects>
+                <viewController id="O14-HD-IGT" customClass="RateViewController" customModule="Hystouri" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="vus-AC-Ouy">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="hxv-eR-MXz">
+                                <rect key="frame" x="0.0" y="779" width="414" height="49"/>
+                                <items>
+                                    <barButtonItem title="Map" id="1Q2-gV-MsG">
+                                        <connections>
+                                            <segue destination="BYZ-38-t0r" kind="show" id="lCr-VD-1iW"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem title="Ratings" id="IAo-CS-kba"/>
+                                    <barButtonItem title="ForYou" id="HkS-qZ-Swc">
+                                        <connections>
+                                            <segue destination="7dO-W1-G91" kind="show" id="w0I-51-FJ1"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem title="Profile" id="6zb-yj-wSN">
+                                        <connections>
+                                            <segue destination="BRo-8y-zhl" kind="show" id="Njd-4b-0rh"/>
+                                        </connections>
+                                    </barButtonItem>
+                                </items>
+                            </toolbar>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="hxv-eR-MXz" firstAttribute="trailing" secondItem="uDH-Hx-IeP" secondAttribute="trailing" id="6U4-L6-qFW"/>
+                            <constraint firstItem="hxv-eR-MXz" firstAttribute="leading" secondItem="uDH-Hx-IeP" secondAttribute="leading" id="QV5-Xs-9bl"/>
+                            <constraint firstItem="hxv-eR-MXz" firstAttribute="bottom" secondItem="uDH-Hx-IeP" secondAttribute="bottom" constant="20" id="lzr-ge-bpX"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="uDH-Hx-IeP"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="dMG-Uv-2dE"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="VIl-rG-nz5" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="201" y="-294"/>
         </scene>
     </scenes>
+    <inferredMetricsTieBreakers>
+        <segue reference="M6l-j1-VKh"/>
+        <segue reference="Njd-4b-0rh"/>
+        <segue reference="w0I-51-FJ1"/>
+        <segue reference="lCr-VD-1iW"/>
+    </inferredMetricsTieBreakers>
 </document>
