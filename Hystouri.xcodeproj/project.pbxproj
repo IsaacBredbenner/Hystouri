@@ -15,9 +15,8 @@
 		52B897A823FC6664001CC298 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52B897A623FC6664001CC298 /* LaunchScreen.storyboard */; };
 		52B897B323FC6665001CC298 /* HystouriTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B897B223FC6665001CC298 /* HystouriTests.swift */; };
 		52B897BE23FC6665001CC298 /* HystouriUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B897BD23FC6665001CC298 /* HystouriUITests.swift */; };
-		534BF07823FDC25A00D7402E /* RateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534BF07723FDC25A00D7402E /* RateViewController.swift */; };
-		534BF07A23FDC29500D7402E /* ForYouViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534BF07923FDC29500D7402E /* ForYouViewController.swift */; };
-		534BF07C23FDC2B600D7402E /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534BF07B23FDC2B600D7402E /* ProfileViewController.swift */; };
+		5397D03C2400459F0060F602 /* GoogleService-Info (3).plist in Resources */ = {isa = PBXBuildFile; fileRef = 5397D03B2400459F0060F602 /* GoogleService-Info (3).plist */; };
+		B5636774D3F21E698C184F0C /* Pods_Hystouri.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A553E1670D8CADA09F0C7C90 /* Pods_Hystouri.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		12D57088B0DED1F005E0E90C /* Pods-Hystouri.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Hystouri.release.xcconfig"; path = "Target Support Files/Pods-Hystouri/Pods-Hystouri.release.xcconfig"; sourceTree = "<group>"; };
 		52B8979823FC665E001CC298 /* Hystouri.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hystouri.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		52B8979B23FC665E001CC298 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		52B8979D23FC665E001CC298 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -52,9 +52,9 @@
 		52B897B923FC6665001CC298 /* HystouriUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HystouriUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		52B897BD23FC6665001CC298 /* HystouriUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HystouriUITests.swift; sourceTree = "<group>"; };
 		52B897BF23FC6665001CC298 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		534BF07723FDC25A00D7402E /* RateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RateViewController.swift; sourceTree = "<group>"; };
-		534BF07923FDC29500D7402E /* ForYouViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForYouViewController.swift; sourceTree = "<group>"; };
-		534BF07B23FDC2B600D7402E /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		5397D03B2400459F0060F602 /* GoogleService-Info (3).plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info (3).plist"; sourceTree = "<group>"; };
+		A4161A55A0344DF54B3B9E15 /* Pods-Hystouri.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Hystouri.debug.xcconfig"; path = "Target Support Files/Pods-Hystouri/Pods-Hystouri.debug.xcconfig"; sourceTree = "<group>"; };
+		A553E1670D8CADA09F0C7C90 /* Pods_Hystouri.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Hystouri.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +62,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5636774D3F21E698C184F0C /* Pods_Hystouri.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,6 +83,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		44F25237D38DF1E0356249FF /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				A4161A55A0344DF54B3B9E15 /* Pods-Hystouri.debug.xcconfig */,
+				12D57088B0DED1F005E0E90C /* Pods-Hystouri.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		52B8978F23FC665D001CC298 = {
 			isa = PBXGroup;
 			children = (
@@ -89,6 +100,8 @@
 				52B897B123FC6665001CC298 /* HystouriTests */,
 				52B897BC23FC6665001CC298 /* HystouriUITests */,
 				52B8979923FC665E001CC298 /* Products */,
+				44F25237D38DF1E0356249FF /* Pods */,
+				8E096804374072378DCEB368 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -112,6 +125,7 @@
 				52B897A123FC665E001CC298 /* Main.storyboard */,
 				52B897A423FC6664001CC298 /* Assets.xcassets */,
 				52B897A623FC6664001CC298 /* LaunchScreen.storyboard */,
+				5397D03B2400459F0060F602 /* GoogleService-Info (3).plist */,
 				52B897A923FC6664001CC298 /* Info.plist */,
 				534BF07923FDC29500D7402E /* ForYouViewController.swift */,
 				534BF07B23FDC2B600D7402E /* ProfileViewController.swift */,
@@ -137,6 +151,14 @@
 			path = HystouriUITests;
 			sourceTree = "<group>";
 		};
+		8E096804374072378DCEB368 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A553E1670D8CADA09F0C7C90 /* Pods_Hystouri.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -144,9 +166,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 52B897C223FC6665001CC298 /* Build configuration list for PBXNativeTarget "Hystouri" */;
 			buildPhases = (
+				B4911270BAE1215FCF50C563 /* [CP] Check Pods Manifest.lock */,
 				52B8979423FC665E001CC298 /* Sources */,
 				52B8979523FC665E001CC298 /* Frameworks */,
 				52B8979623FC665E001CC298 /* Resources */,
+				830161EB14E81C530C19A7EE /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -242,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				52B897A823FC6664001CC298 /* LaunchScreen.storyboard in Resources */,
+				5397D03C2400459F0060F602 /* GoogleService-Info (3).plist in Resources */,
 				52B897A523FC6664001CC298 /* Assets.xcassets in Resources */,
 				52B897A323FC665E001CC298 /* Main.storyboard in Resources */,
 			);
@@ -262,6 +287,48 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		830161EB14E81C530C19A7EE /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Hystouri/Pods-Hystouri-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Hystouri/Pods-Hystouri-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Hystouri/Pods-Hystouri-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B4911270BAE1215FCF50C563 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Hystouri-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		52B8979423FC665E001CC298 /* Sources */ = {
@@ -444,6 +511,7 @@
 		};
 		52B897C323FC6665001CC298 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A4161A55A0344DF54B3B9E15 /* Pods-Hystouri.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -461,6 +529,7 @@
 		};
 		52B897C423FC6665001CC298 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 12D57088B0DED1F005E0E90C /* Pods-Hystouri.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
