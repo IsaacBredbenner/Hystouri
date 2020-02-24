@@ -15,8 +15,9 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="EWy-DQ-UiC">
-                                <rect key="frame" x="0.0" y="779" width="414" height="49"/>
+                            <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="EWy-DQ-UiC">
+                                <rect key="frame" x="0.0" y="661" width="414" height="167"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <items>
                                     <barButtonItem title="Map" id="4lT-bo-IIx"/>
                                     <barButtonItem title="Ratings" id="WFd-N6-xB9">
@@ -36,20 +37,50 @@
                                     </barButtonItem>
                                 </items>
                             </toolbar>
+                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" mapType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="Vqq-id-4cz">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="775"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </mapView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="pin" translatesAutoresizingMaskIntoConstraints="NO" id="umq-Rg-gmp">
+                                <rect key="frame" x="177" y="423" width="60" height="50"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kmK-uF-94J">
+                                <rect key="frame" x="52" y="45" width="42" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="THd-K9-UCg">
+                                <rect key="frame" x="275" y="661" width="97" height="97"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="97" id="4k4-RP-GsN"/>
+                                    <constraint firstAttribute="height" constant="97" id="WaM-9q-Ilx"/>
+                                </constraints>
+                                <state key="normal" title="Button" image="go"/>
+                                <connections>
+                                    <action selector="goButtonTappedWith_sender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="MkF-NG-39O"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
-                            <constraint firstItem="EWy-DQ-UiC" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="mxm-0F-to8"/>
-                            <constraint firstItem="EWy-DQ-UiC" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" constant="20" id="oar-gM-ck7"/>
-                            <constraint firstItem="EWy-DQ-UiC" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="veP-A4-rOP"/>
+                            <constraint firstItem="THd-K9-UCg" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="275" id="N1k-sO-LTQ"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="THd-K9-UCg" secondAttribute="bottom" constant="50" id="h5u-VG-15g"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="THd-K9-UCg" secondAttribute="trailing" constant="42" id="hoW-4i-NbV"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <navigationItem key="navigationItem" id="rdE-hF-Ibn"/>
+                    <connections>
+                        <outlet property="addressLabel" destination="kmK-uF-94J" id="SlW-03-8qh"/>
+                        <outlet property="mapView" destination="Vqq-id-4cz" id="Wf4-52-dwW"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-710" y="115"/>
+            <point key="canvasLocation" x="-710.14492753623199" y="114.50892857142857"/>
         </scene>
         <!--For You View Controller-->
         <scene sceneID="kLh-AI-ZmY">
@@ -214,10 +245,14 @@
             <point key="canvasLocation" x="201" y="-294"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="go" width="144" height="144"/>
+        <image name="pin" width="1000" height="800"/>
+    </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="GEw-uO-WdA"/>
-        <segue reference="Njd-4b-0rh"/>
-        <segue reference="rII-nq-NZY"/>
+        <segue reference="Aab-DW-rBS"/>
+        <segue reference="4c5-df-7MJ"/>
+        <segue reference="Hq2-fB-ezK"/>
         <segue reference="yvY-Sv-Ptk"/>
     </inferredMetricsTieBreakers>
 </document>
