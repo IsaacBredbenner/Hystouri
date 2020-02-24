@@ -2,7 +2,7 @@
 //  ProfileViewController.swift
 //  Hystouri
 //
-//  Created by Anna Dubnoff (student LM) on 2/19/20.
+//  Created by Anna Dubnoff (student LM) on 2/24/20.
 //  Copyright © 2020 Isaac Bredbenner (student LM). All rights reserved.
 //
 
