@@ -155,12 +155,60 @@
                                     <barButtonItem title="Profile" id="i3O-3x-Ndf"/>
                                 </items>
                             </toolbar>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8GU-JT-Ecj">
+                                <rect key="frame" x="107" y="561" width="200" height="50"/>
+                                <color key="backgroundColor" systemColor="systemYellowColor" red="1" green="0.80000000000000004" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="50" id="EdQ-k7-oWr"/>
+                                    <constraint firstAttribute="height" constant="50" id="tJc-oc-jV3"/>
+                                    <constraint firstAttribute="width" constant="200" id="zza-7T-KWd"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="25"/>
+                                <state key="normal" title="Log In">
+                                    <color key="titleColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="20"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <segue destination="Xaz-up-q2J" kind="show" id="HBS-Wv-v8Y"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="I8e-ef-la3">
+                                <rect key="frame" x="107" y="651" width="200" height="50"/>
+                                <color key="backgroundColor" systemColor="systemYellowColor" red="1" green="0.80000000000000004" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="AOb-e1-TC8"/>
+                                    <constraint firstAttribute="width" constant="200" id="u7m-KL-6k8"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="25"/>
+                                <state key="normal" title="Sign Up">
+                                    <color key="titleColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="20"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <segue destination="DTY-UE-aFA" kind="show" id="Mie-Gf-Znu"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
+                            <constraint firstItem="I8e-ef-la3" firstAttribute="leading" secondItem="uAR-MW-XMF" secondAttribute="leading" constant="107" id="AYX-JD-R27"/>
+                            <constraint firstItem="uAR-MW-XMF" firstAttribute="trailing" secondItem="I8e-ef-la3" secondAttribute="trailing" constant="107" id="IJ9-9c-PJh"/>
+                            <constraint firstItem="uAR-MW-XMF" firstAttribute="trailing" secondItem="8GU-JT-Ecj" secondAttribute="trailing" constant="107" id="Jik-ea-9Mm"/>
+                            <constraint firstItem="I8e-ef-la3" firstAttribute="top" secondItem="8GU-JT-Ecj" secondAttribute="bottom" constant="40" id="Ljd-33-bj6"/>
+                            <constraint firstItem="I2I-bO-oTM" firstAttribute="top" secondItem="I8e-ef-la3" secondAttribute="bottom" constant="78" id="Oog-nO-G3E"/>
                             <constraint firstItem="I2I-bO-oTM" firstAttribute="bottom" secondItem="uAR-MW-XMF" secondAttribute="bottom" constant="20" id="fXf-zr-hDl"/>
                             <constraint firstItem="I2I-bO-oTM" firstAttribute="trailing" secondItem="uAR-MW-XMF" secondAttribute="trailing" id="kKz-Xb-NCP"/>
                             <constraint firstItem="I2I-bO-oTM" firstAttribute="leading" secondItem="uAR-MW-XMF" secondAttribute="leading" id="q2X-Md-0da"/>
+                            <constraint firstItem="I8e-ef-la3" firstAttribute="top" secondItem="8GU-JT-Ecj" secondAttribute="bottom" constant="40" id="qLJ-sg-Mth"/>
+                            <constraint firstItem="8GU-JT-Ecj" firstAttribute="leading" secondItem="uAR-MW-XMF" secondAttribute="leading" constant="107" id="qjk-nV-fRD"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="uAR-MW-XMF"/>
                     </view>
@@ -175,26 +223,43 @@
             <objects>
                 <viewController id="DTY-UE-aFA" customClass="SignUpViewController" customModule="Hystouri" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="qrK-Zo-8QW">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <viewLayoutGuide key="safeArea" id="fgM-Zk-Imh"/>
                     </view>
+                    <navigationItem key="navigationItem" id="VPT-cE-Dl8"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="PpE-3U-9qo" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1793" y="493"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="tXG-6I-siD">
+            <objects>
+                <viewController id="CSO-hK-dZT" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="l2g-bT-PdS">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <viewLayoutGuide key="safeArea" id="BWo-iS-Ets"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="3ey-uH-Chp" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2430" y="167"/>
         </scene>
         <!--Log In View Controller-->
         <scene sceneID="BO4-VX-jdu">
             <objects>
                 <viewController id="Xaz-up-q2J" customClass="LogInViewController" customModule="Hystouri" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="oJc-ya-AtF">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <viewLayoutGuide key="safeArea" id="qa8-G2-ld8"/>
                     </view>
+                    <navigationItem key="navigationItem" id="yIA-YQ-zUu"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="jOM-XY-9Tl" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -250,9 +315,9 @@
         <image name="pin" width="1000" height="800"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="Aab-DW-rBS"/>
+        <segue reference="GEw-uO-WdA"/>
         <segue reference="4c5-df-7MJ"/>
-        <segue reference="Hq2-fB-ezK"/>
+        <segue reference="rII-nq-NZY"/>
         <segue reference="yvY-Sv-Ptk"/>
     </inferredMetricsTieBreakers>
 </document>
