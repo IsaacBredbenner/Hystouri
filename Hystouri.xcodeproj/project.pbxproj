@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -15,6 +15,8 @@
 		52B897A823FC6664001CC298 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52B897A623FC6664001CC298 /* LaunchScreen.storyboard */; };
 		52B897B323FC6665001CC298 /* HystouriTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B897B223FC6665001CC298 /* HystouriTests.swift */; };
 		52B897BE23FC6665001CC298 /* HystouriUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B897BD23FC6665001CC298 /* HystouriUITests.swift */; };
+		537896D82404471800D65AFB /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537896D72404471800D65AFB /* SignUpViewController.swift */; };
+		537896DA2404474100D65AFB /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537896D92404474100D65AFB /* LogInViewController.swift */; };
 		5397D03C2400459F0060F602 /* GoogleService-Info (3).plist in Resources */ = {isa = PBXBuildFile; fileRef = 5397D03B2400459F0060F602 /* GoogleService-Info (3).plist */; };
 		B5636774D3F21E698C184F0C /* Pods_Hystouri.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A553E1670D8CADA09F0C7C90 /* Pods_Hystouri.framework */; };
 /* End PBXBuildFile section */
@@ -52,6 +54,8 @@
 		52B897B923FC6665001CC298 /* HystouriUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HystouriUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		52B897BD23FC6665001CC298 /* HystouriUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HystouriUITests.swift; sourceTree = "<group>"; };
 		52B897BF23FC6665001CC298 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		537896D72404471800D65AFB /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		537896D92404474100D65AFB /* LogInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
 		5397D03B2400459F0060F602 /* GoogleService-Info (3).plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info (3).plist"; sourceTree = "<group>"; };
 		A4161A55A0344DF54B3B9E15 /* Pods-Hystouri.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Hystouri.debug.xcconfig"; path = "Target Support Files/Pods-Hystouri/Pods-Hystouri.debug.xcconfig"; sourceTree = "<group>"; };
 		A553E1670D8CADA09F0C7C90 /* Pods_Hystouri.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Hystouri.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -89,7 +93,6 @@
 				A4161A55A0344DF54B3B9E15 /* Pods-Hystouri.debug.xcconfig */,
 				12D57088B0DED1F005E0E90C /* Pods-Hystouri.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -121,14 +124,13 @@
 				52B8979B23FC665E001CC298 /* AppDelegate.swift */,
 				52B8979D23FC665E001CC298 /* SceneDelegate.swift */,
 				52B8979F23FC665E001CC298 /* MapViewController.swift */,
-				534BF07723FDC25A00D7402E /* RateViewController.swift */,
 				52B897A123FC665E001CC298 /* Main.storyboard */,
 				52B897A423FC6664001CC298 /* Assets.xcassets */,
 				52B897A623FC6664001CC298 /* LaunchScreen.storyboard */,
 				5397D03B2400459F0060F602 /* GoogleService-Info (3).plist */,
 				52B897A923FC6664001CC298 /* Info.plist */,
-				534BF07923FDC29500D7402E /* ForYouViewController.swift */,
-				534BF07B23FDC2B600D7402E /* ProfileViewController.swift */,
+				537896D72404471800D65AFB /* SignUpViewController.swift */,
+				537896D92404474100D65AFB /* LogInViewController.swift */,
 			);
 			path = Hystouri;
 			sourceTree = "<group>";
@@ -335,11 +337,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				534BF07C23FDC2B600D7402E /* ProfileViewController.swift in Sources */,
 				52B897A023FC665E001CC298 /* MapViewController.swift in Sources */,
 				52B8979C23FC665E001CC298 /* AppDelegate.swift in Sources */,
-				534BF07823FDC25A00D7402E /* RateViewController.swift in Sources */,
-				534BF07A23FDC29500D7402E /* ForYouViewController.swift in Sources */,
+				537896D82404471800D65AFB /* SignUpViewController.swift in Sources */,
+				537896DA2404474100D65AFB /* LogInViewController.swift in Sources */,
 				52B8979E23FC665E001CC298 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

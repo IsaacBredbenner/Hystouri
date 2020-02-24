@@ -139,6 +139,36 @@
             </objects>
             <point key="canvasLocation" x="978" y="109"/>
         </scene>
+        <!--Sign Up View Controller-->
+        <scene sceneID="Tbd-hp-KXS">
+            <objects>
+                <viewController id="DTY-UE-aFA" customClass="SignUpViewController" customModule="Hystouri" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="qrK-Zo-8QW">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <viewLayoutGuide key="safeArea" id="fgM-Zk-Imh"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="PpE-3U-9qo" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1793" y="493"/>
+        </scene>
+        <!--Log In View Controller-->
+        <scene sceneID="BO4-VX-jdu">
+            <objects>
+                <viewController id="Xaz-up-q2J" customClass="LogInViewController" customModule="Hystouri" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="oJc-ya-AtF">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <viewLayoutGuide key="safeArea" id="qa8-G2-ld8"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="jOM-XY-9Tl" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1789" y="-198"/>
+        </scene>
         <!--Rate View Controller-->
         <scene sceneID="Ylt-lm-B29">
             <objects>
@@ -185,9 +215,9 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="M6l-j1-VKh"/>
+        <segue reference="GEw-uO-WdA"/>
         <segue reference="Njd-4b-0rh"/>
-        <segue reference="w0I-51-FJ1"/>
-        <segue reference="lCr-VD-1iW"/>
+        <segue reference="rII-nq-NZY"/>
+        <segue reference="yvY-Sv-Ptk"/>
     </inferredMetricsTieBreakers>
 </document>
