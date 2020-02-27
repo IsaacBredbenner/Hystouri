@@ -18,6 +18,7 @@
 		537896D82404471800D65AFB /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537896D72404471800D65AFB /* SignUpViewController.swift */; };
 		537896DA2404474100D65AFB /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537896D92404474100D65AFB /* LogInViewController.swift */; };
 		537896DC240447B500D65AFB /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537896DB240447B500D65AFB /* ProfileViewController.swift */; };
+		537896DE24082AC100D65AFB /* ActualProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537896DD24082AC100D65AFB /* ActualProfileViewController.swift */; };
 		5397D03C2400459F0060F602 /* GoogleService-Info (3).plist in Resources */ = {isa = PBXBuildFile; fileRef = 5397D03B2400459F0060F602 /* GoogleService-Info (3).plist */; };
 		B5636774D3F21E698C184F0C /* Pods_Hystouri.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A553E1670D8CADA09F0C7C90 /* Pods_Hystouri.framework */; };
 /* End PBXBuildFile section */
@@ -58,6 +59,7 @@
 		537896D72404471800D65AFB /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 		537896D92404474100D65AFB /* LogInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
 		537896DB240447B500D65AFB /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		537896DD24082AC100D65AFB /* ActualProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActualProfileViewController.swift; sourceTree = "<group>"; };
 		5397D03B2400459F0060F602 /* GoogleService-Info (3).plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info (3).plist"; sourceTree = "<group>"; };
 		A4161A55A0344DF54B3B9E15 /* Pods-Hystouri.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Hystouri.debug.xcconfig"; path = "Target Support Files/Pods-Hystouri/Pods-Hystouri.debug.xcconfig"; sourceTree = "<group>"; };
 		A553E1670D8CADA09F0C7C90 /* Pods_Hystouri.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Hystouri.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -134,6 +136,7 @@
 				537896D72404471800D65AFB /* SignUpViewController.swift */,
 				537896D92404474100D65AFB /* LogInViewController.swift */,
 				537896DB240447B500D65AFB /* ProfileViewController.swift */,
+				537896DD24082AC100D65AFB /* ActualProfileViewController.swift */,
 			);
 			path = Hystouri;
 			sourceTree = "<group>";
@@ -343,6 +346,7 @@
 				537896DC240447B500D65AFB /* ProfileViewController.swift in Sources */,
 				52B897A023FC665E001CC298 /* MapViewController.swift in Sources */,
 				52B8979C23FC665E001CC298 /* AppDelegate.swift in Sources */,
+				537896DE24082AC100D65AFB /* ActualProfileViewController.swift in Sources */,
 				537896D82404471800D65AFB /* SignUpViewController.swift in Sources */,
 				537896DA2404474100D65AFB /* LogInViewController.swift in Sources */,
 				52B8979E23FC665E001CC298 /* SceneDelegate.swift in Sources */,

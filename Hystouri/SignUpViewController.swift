@@ -11,13 +11,12 @@ import UIKit
 class SignUpViewController: UIViewController {
 
     
-    @IBOutlet weak var userName: UITextField!
-    @IBOutlet weak var emailAddress: UITextField!
-    @IBOutlet weak var password: UITextField!
-    @IBOutlet weak var signUpOutlet: UIButton!
-    
-    @IBAction func signUpAction(_ sender: UIButton) {
 
+    @IBOutlet weak var password: UITextField!
+    @IBOutlet weak var emailAddress: UITextField!
+    @IBOutlet weak var userName: UITextField!
+    @IBOutlet weak var signUpOutlet: UIButton!
+    @IBAction func signUpAction(_ sender: UIButton) {
         guard let userName = userName.text else {return}
         guard let email = emailAddress.text else {return}
         guard let password = password.text else {return}
