@@ -74,7 +74,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="rdE-hF-Ibn"/>
                     <connections>
-                        <outlet property="addressLabel" destination="kmK-uF-94J" id="SlW-03-8qh"/>
+                        <outlet property="addressLabel" destination="kmK-uF-94J" id="Pz8-xV-9Bw"/>
                         <outlet property="mapView" destination="Vqq-id-4cz" id="Wf4-52-dwW"/>
                     </connections>
                 </viewController>
@@ -393,7 +393,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="go" width="144" height="144"/>
+        <image name="go" width="256" height="256"/>
         <image name="pin" width="1000" height="800"/>
     </resources>
     <inferredMetricsTieBreakers>

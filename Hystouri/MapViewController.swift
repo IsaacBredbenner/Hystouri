@@ -121,6 +121,7 @@ class MapViewController: UIViewController {
         
         @IBAction func goButtonTapped(_sender: UIButton){
             getDirections()
+            _sender.setImage(#imageLiteral(resourceName: "end"), for: .normal)
         }
     }
 
