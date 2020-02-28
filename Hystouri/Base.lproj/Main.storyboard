@@ -216,6 +216,9 @@
                         <viewLayoutGuide key="safeArea" id="uAR-MW-XMF"/>
                     </view>
                     <navigationItem key="navigationItem" id="3cr-Rh-oQx"/>
+                    <connections>
+                        <segue destination="jEY-2k-gMN" kind="show" identifier="toHomeScreen" id="kwu-k0-SNR"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="XDs-W5-UrI" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -398,11 +401,11 @@
             <objects>
                 <viewController id="jEY-2k-gMN" customClass="ActualProfileViewController" customModule="Hystouri" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="OKk-PG-Pqw">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Oqy-Qd-GmA">
-                                <rect key="frame" x="107" y="647" width="200" height="50"/>
+                                <rect key="frame" x="107" y="593" width="200" height="50"/>
                                 <color key="backgroundColor" red="0.98249281519999998" green="0.97132695759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="200" id="ODc-sv-klw"/>
@@ -420,7 +423,7 @@
                                 </userDefinedRuntimeAttributes>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Q9G-7Y-hC9">
-                                <rect key="frame" x="107" y="737" width="200" height="50"/>
+                                <rect key="frame" x="107" y="683" width="200" height="50"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="tableCellGroupedBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="200" id="cMv-EZ-YTi"/>
