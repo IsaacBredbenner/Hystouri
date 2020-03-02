@@ -13,7 +13,9 @@ class MapViewController: UIViewController {
 
     @IBOutlet weak var mapView: MKMapView!
     
-    @IBOutlet weak var addressLabel: UILabel!
+    @IBOutlet weak var addressLabel: UITextField!
+    
+   
     
         let locationManager = CLLocationManager()
         let regionInMeters: Double = 10000

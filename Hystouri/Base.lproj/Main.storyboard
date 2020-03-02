@@ -45,13 +45,6 @@
                                 <rect key="frame" x="177" y="423" width="60" height="50"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kmK-uF-94J">
-                                <rect key="frame" x="52" y="45" width="42" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="THd-K9-UCg">
                                 <rect key="frame" x="275" y="661" width="97" height="97"/>
                                 <constraints>
@@ -63,9 +56,20 @@
                                     <action selector="goButtonTappedWith_sender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="MkF-NG-39O"/>
                                 </connections>
                             </button>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="JiV-Ji-uy5">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="EhT-Lf-Bnl"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
+                            <constraint firstItem="JiV-Ji-uy5" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="5Qs-EN-lgI"/>
+                            <constraint firstItem="JiV-Ji-uy5" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="5yD-L7-Os1"/>
+                            <constraint firstItem="JiV-Ji-uy5" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="AP8-qw-tIe"/>
                             <constraint firstItem="THd-K9-UCg" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="275" id="N1k-sO-LTQ"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="THd-K9-UCg" secondAttribute="bottom" constant="50" id="h5u-VG-15g"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="THd-K9-UCg" secondAttribute="trailing" constant="42" id="hoW-4i-NbV"/>
@@ -74,7 +78,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="rdE-hF-Ibn"/>
                     <connections>
-                        <outlet property="addressLabel" destination="kmK-uF-94J" id="Pz8-xV-9Bw"/>
+                        <outlet property="addressLabel" destination="JiV-Ji-uy5" id="iZT-Vb-gic"/>
                         <outlet property="mapView" destination="Vqq-id-4cz" id="Wf4-52-dwW"/>
                     </connections>
                 </viewController>
@@ -515,9 +519,9 @@
         <image name="pin" width="1000" height="800"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="GEw-uO-WdA"/>
-        <segue reference="QSe-0v-gC6"/>
-        <segue reference="rII-nq-NZY"/>
+        <segue reference="Aab-DW-rBS"/>
+        <segue reference="4c5-df-7MJ"/>
+        <segue reference="Hq2-fB-ezK"/>
         <segue reference="yvY-Sv-Ptk"/>
     </inferredMetricsTieBreakers>
 </document>
