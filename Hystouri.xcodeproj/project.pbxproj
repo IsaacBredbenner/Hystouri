@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 51;
+	objectVersion = 50;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -20,7 +20,7 @@
 		537896DC240447B500D65AFB /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537896DB240447B500D65AFB /* ProfileViewController.swift */; };
 		537896DE24082AC100D65AFB /* ActualProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537896DD24082AC100D65AFB /* ActualProfileViewController.swift */; };
 		5397D03C2400459F0060F602 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5397D03B2400459F0060F602 /* GoogleService-Info.plist */; };
-		B5636774D3F21E698C184F0C /* Pods_Hystouri.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A553E1670D8CADA09F0C7C90 /* Pods_Hystouri.framework */; };
+		91ABAA38D6E21EDC0C5D21C8 /* libPods-Hystouri.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F3EEFCFB773DA4D2F31FB9DE /* libPods-Hystouri.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,7 +62,7 @@
 		537896DD24082AC100D65AFB /* ActualProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActualProfileViewController.swift; sourceTree = "<group>"; };
 		5397D03B2400459F0060F602 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		A4161A55A0344DF54B3B9E15 /* Pods-Hystouri.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Hystouri.debug.xcconfig"; path = "Target Support Files/Pods-Hystouri/Pods-Hystouri.debug.xcconfig"; sourceTree = "<group>"; };
-		A553E1670D8CADA09F0C7C90 /* Pods_Hystouri.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Hystouri.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F3EEFCFB773DA4D2F31FB9DE /* libPods-Hystouri.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Hystouri.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,7 +70,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B5636774D3F21E698C184F0C /* Pods_Hystouri.framework in Frameworks */,
+				91ABAA38D6E21EDC0C5D21C8 /* libPods-Hystouri.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -162,7 +162,7 @@
 		8E096804374072378DCEB368 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				A553E1670D8CADA09F0C7C90 /* Pods_Hystouri.framework */,
+				F3EEFCFB773DA4D2F31FB9DE /* libPods-Hystouri.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -178,7 +178,6 @@
 				52B8979423FC665E001CC298 /* Sources */,
 				52B8979523FC665E001CC298 /* Frameworks */,
 				52B8979623FC665E001CC298 /* Resources */,
-				830161EB14E81C530C19A7EE /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -297,23 +296,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		830161EB14E81C530C19A7EE /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Hystouri/Pods-Hystouri-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Hystouri/Pods-Hystouri-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Hystouri/Pods-Hystouri-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		B4911270BAE1215FCF50C563 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -524,13 +506,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = F6FGB259BK;
+				DEVELOPMENT_TEAM = 22T4HK3F48;
 				INFOPLIST_FILE = Hystouri/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Bredbenner.Hystouri;
+				PRODUCT_BUNDLE_IDENTIFIER = Bredbenner.Hystouri1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -543,13 +525,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = F6FGB259BK;
+				DEVELOPMENT_TEAM = 22T4HK3F48;
 				INFOPLIST_FILE = Hystouri/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Bredbenner.Hystouri;
+				PRODUCT_BUNDLE_IDENTIFIER = Bredbenner.Hystouri1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
