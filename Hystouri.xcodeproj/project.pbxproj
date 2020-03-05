@@ -15,6 +15,7 @@
 		52B897A823FC6664001CC298 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52B897A623FC6664001CC298 /* LaunchScreen.storyboard */; };
 		52B897B323FC6665001CC298 /* HystouriTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B897B223FC6665001CC298 /* HystouriTests.swift */; };
 		52B897BE23FC6665001CC298 /* HystouriUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B897BD23FC6665001CC298 /* HystouriUITests.swift */; };
+		535B66162411785D00FC7FCC /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 535B66152411785D00FC7FCC /* MapKit.framework */; };
 		537896D82404471800D65AFB /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537896D72404471800D65AFB /* SignUpViewController.swift */; };
 		537896DA2404474100D65AFB /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537896D92404474100D65AFB /* LogInViewController.swift */; };
 		537896DC240447B500D65AFB /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537896DB240447B500D65AFB /* ProfileViewController.swift */; };
@@ -56,6 +57,7 @@
 		52B897B923FC6665001CC298 /* HystouriUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HystouriUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		52B897BD23FC6665001CC298 /* HystouriUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HystouriUITests.swift; sourceTree = "<group>"; };
 		52B897BF23FC6665001CC298 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		535B66152411785D00FC7FCC /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		537896D72404471800D65AFB /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 		537896D92404474100D65AFB /* LogInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
 		537896DB240447B500D65AFB /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				535B66162411785D00FC7FCC /* MapKit.framework in Frameworks */,
 				91ABAA38D6E21EDC0C5D21C8 /* libPods-Hystouri.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -162,6 +165,7 @@
 		8E096804374072378DCEB368 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				535B66152411785D00FC7FCC /* MapKit.framework */,
 				F3EEFCFB773DA4D2F31FB9DE /* libPods-Hystouri.a */,
 			);
 			name = Frameworks;
