@@ -18,15 +18,20 @@ class LogInViewController: UIViewController {
     @IBAction func loginAction(_ sender: UIButton) {
         guard let email = emailAddress.text else {return}
         guard let password = password.text else {return}
+       
 
         Auth.auth().signIn(withEmail: email, password: password){ user, error in
-            if error == nil && user != nil{
-                self.dismiss(animated: false, completion: nil)
+            if let _ = user{
+                if let _ = Auth.auth().currentUser{
+                    self.performSegue(withIdentifier: "toProfile", sender: self)
+                }
+                //self.dismiss(animated: false, completion: nil)
             }
             else{
                 print(error!.localizedDescription)
             }
         }
+
     }
    
     func textFieldShouldReturn(_ textField: UITextField) -> Bool{
@@ -42,10 +47,9 @@ class LogInViewController: UIViewController {
     
 
     
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        emailAddress.becomeFirstResponder()
-        // Do any additional setup after loading the view.
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+
     }
 
 }

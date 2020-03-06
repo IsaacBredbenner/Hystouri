@@ -107,7 +107,9 @@
                                             <segue destination="O14-HD-IGT" kind="show" id="M6l-j1-VKh"/>
                                         </connections>
                                     </barButtonItem>
-                                    <barButtonItem title="ForYou" id="gCj-SI-BA1"/>
+                                    <barButtonItem title="ForYou" id="gCj-SI-BA1">
+                                        <color key="tintColor" systemColor="systemRedColor" red="1" green="0.23137254900000001" blue="0.18823529410000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </barButtonItem>
                                     <barButtonItem title="Profile" id="1B7-Or-hdQ">
                                         <connections>
                                             <segue destination="BRo-8y-zhl" kind="show" id="QSe-0v-gC6"/>
@@ -139,7 +141,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="I2I-bO-oTM">
-                                <rect key="frame" x="0.0" y="779" width="414" height="49"/>
+                                <rect key="frame" x="0.0" y="773" width="414" height="49"/>
                                 <items>
                                     <barButtonItem title="Map" id="UCf-c7-K3e">
                                         <connections>
@@ -160,15 +162,14 @@
                                         <color key="tintColor" red="0.99979740380000004" green="0.16457775080000001" blue="0.1537195657" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     </barButtonItem>
                                 </items>
-                                <color key="barTintColor" red="0.70319885015487671" green="0.94109445810317993" blue="0.99979740381240845" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="barTintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             </toolbar>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8GU-JT-Ecj">
-                                <rect key="frame" x="107" y="561" width="200" height="50"/>
+                                <rect key="frame" x="107" y="340" width="200" height="50"/>
                                 <color key="backgroundColor" red="0.98249281519932785" green="0.97132695762404453" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="50" id="EdQ-k7-oWr"/>
-                                    <constraint firstAttribute="height" constant="50" id="tJc-oc-jV3"/>
-                                    <constraint firstAttribute="width" constant="200" id="zza-7T-KWd"/>
+                                    <constraint firstAttribute="width" constant="200" id="Z1M-KG-w87"/>
+                                    <constraint firstAttribute="height" constant="50" id="qrg-sw-KJT"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="25"/>
                                 <state key="normal" title="Log In">
@@ -184,14 +185,14 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="I8e-ef-la3">
-                                <rect key="frame" x="107" y="651" width="200" height="50"/>
+                                <rect key="frame" x="61.5" y="423" width="291" height="50"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="tableCellGroupedBackgroundColor"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="50" id="AOb-e1-TC8"/>
-                                    <constraint firstAttribute="width" constant="200" id="u7m-KL-6k8"/>
+                                    <constraint firstAttribute="width" constant="291" id="3P5-tp-Ak3"/>
+                                    <constraint firstAttribute="height" constant="50" id="66G-H4-8ju"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="25"/>
-                                <state key="normal" title="Sign Up">
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="20"/>
+                                <state key="normal" title="Dont have an account? Sign Up!">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <userDefinedRuntimeAttributes>
@@ -206,16 +207,13 @@
                         </subviews>
                         <color key="backgroundColor" red="0.75032049417495728" green="0.93530958890914917" blue="0.99181205034255981" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="I8e-ef-la3" firstAttribute="leading" secondItem="uAR-MW-XMF" secondAttribute="leading" constant="107" id="AYX-JD-R27"/>
-                            <constraint firstItem="uAR-MW-XMF" firstAttribute="trailing" secondItem="I8e-ef-la3" secondAttribute="trailing" constant="107" id="IJ9-9c-PJh"/>
-                            <constraint firstItem="uAR-MW-XMF" firstAttribute="trailing" secondItem="8GU-JT-Ecj" secondAttribute="trailing" constant="107" id="Jik-ea-9Mm"/>
-                            <constraint firstItem="I8e-ef-la3" firstAttribute="top" secondItem="8GU-JT-Ecj" secondAttribute="bottom" constant="40" id="Ljd-33-bj6"/>
-                            <constraint firstItem="I2I-bO-oTM" firstAttribute="top" secondItem="I8e-ef-la3" secondAttribute="bottom" constant="78" id="Oog-nO-G3E"/>
-                            <constraint firstItem="I2I-bO-oTM" firstAttribute="bottom" secondItem="uAR-MW-XMF" secondAttribute="bottom" constant="20" id="fXf-zr-hDl"/>
+                            <constraint firstItem="8GU-JT-Ecj" firstAttribute="top" secondItem="uAR-MW-XMF" secondAttribute="top" constant="340" id="46e-f6-elT"/>
+                            <constraint firstAttribute="bottom" secondItem="I2I-bO-oTM" secondAttribute="bottom" constant="20" id="4zC-n1-Uf9"/>
+                            <constraint firstItem="I8e-ef-la3" firstAttribute="centerX" secondItem="1MJ-Yb-LkL" secondAttribute="centerX" id="K9h-rM-iJ6"/>
+                            <constraint firstItem="8GU-JT-Ecj" firstAttribute="leading" secondItem="uAR-MW-XMF" secondAttribute="leading" constant="107" id="ZGO-bY-Ux4"/>
                             <constraint firstItem="I2I-bO-oTM" firstAttribute="trailing" secondItem="uAR-MW-XMF" secondAttribute="trailing" id="kKz-Xb-NCP"/>
+                            <constraint firstItem="I8e-ef-la3" firstAttribute="top" secondItem="8GU-JT-Ecj" secondAttribute="bottom" constant="33" id="kmq-ti-d8S"/>
                             <constraint firstItem="I2I-bO-oTM" firstAttribute="leading" secondItem="uAR-MW-XMF" secondAttribute="leading" id="q2X-Md-0da"/>
-                            <constraint firstItem="I8e-ef-la3" firstAttribute="top" secondItem="8GU-JT-Ecj" secondAttribute="bottom" constant="40" id="qLJ-sg-Mth"/>
-                            <constraint firstItem="8GU-JT-Ecj" firstAttribute="leading" secondItem="uAR-MW-XMF" secondAttribute="leading" constant="107" id="qjk-nV-fRD"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="uAR-MW-XMF"/>
                     </view>
@@ -226,7 +224,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="XDs-W5-UrI" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="978" y="109"/>
+            <point key="canvasLocation" x="976.81159420289862" y="108.48214285714285"/>
         </scene>
         <!--Sign Up View Controller-->
         <scene sceneID="Tbd-hp-KXS">
@@ -286,9 +284,22 @@
                                     <action selector="signUpAction:" destination="DTY-UE-aFA" eventType="touchUpInside" id="jnM-KY-p2O"/>
                                 </connections>
                             </button>
+                            <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="cwd-xS-h1l">
+                                <rect key="frame" x="0.0" y="779" width="414" height="49"/>
+                                <items>
+                                    <barButtonItem title="Map" id="KTc-ld-ok8"/>
+                                    <barButtonItem title="Ratings" id="Emd-fQ-rfj"/>
+                                    <barButtonItem title="ForYou" id="rbY-NI-AS9"/>
+                                    <barButtonItem title="Profile" id="Pfb-bz-icc">
+                                        <color key="tintColor" red="0.99979740380000004" green="0.16457775080000001" blue="0.1537195657" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </barButtonItem>
+                                </items>
+                                <color key="barTintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </toolbar>
                         </subviews>
                         <color key="backgroundColor" red="0.78533393144607544" green="0.9329255223274231" blue="0.98520070314407349" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
+                            <constraint firstItem="cwd-xS-h1l" firstAttribute="bottom" secondItem="fgM-Zk-Imh" secondAttribute="bottom" constant="20" id="1Ai-2V-Ub4"/>
                             <constraint firstItem="Slo-Jw-Rfs" firstAttribute="top" secondItem="SFw-Je-MBE" secondAttribute="bottom" constant="50" id="1bP-S9-T96"/>
                             <constraint firstItem="IB4-0N-rgy" firstAttribute="top" secondItem="fgM-Zk-Imh" secondAttribute="top" constant="50" id="7Tm-ag-H7B"/>
                             <constraint firstItem="fgM-Zk-Imh" firstAttribute="trailing" secondItem="SFw-Je-MBE" secondAttribute="trailing" constant="50" id="9Yp-bX-WFH"/>
@@ -301,7 +312,9 @@
                             <constraint firstItem="jcV-by-jGx" firstAttribute="leading" secondItem="fgM-Zk-Imh" secondAttribute="leading" constant="50" id="PCw-PW-sST"/>
                             <constraint firstItem="fgM-Zk-Imh" firstAttribute="bottom" secondItem="jln-ko-X9H" secondAttribute="bottom" constant="119" id="Wvq-Id-ZFC"/>
                             <constraint firstItem="SFw-Je-MBE" firstAttribute="leading" secondItem="fgM-Zk-Imh" secondAttribute="leading" constant="50" id="Yss-2h-nNF"/>
+                            <constraint firstItem="cwd-xS-h1l" firstAttribute="leading" secondItem="fgM-Zk-Imh" secondAttribute="leading" id="Ywy-Na-H5X"/>
                             <constraint firstItem="jcV-by-jGx" firstAttribute="top" secondItem="Slo-Jw-Rfs" secondAttribute="bottom" constant="20" id="eUa-DB-FyH"/>
+                            <constraint firstItem="cwd-xS-h1l" firstAttribute="trailing" secondItem="fgM-Zk-Imh" secondAttribute="trailing" id="fXJ-wH-YQr"/>
                             <constraint firstItem="jln-ko-X9H" firstAttribute="centerX" secondItem="qrK-Zo-8QW" secondAttribute="centerX" id="hSg-nA-Jrz"/>
                             <constraint firstItem="jvd-um-aXX" firstAttribute="leading" secondItem="fgM-Zk-Imh" secondAttribute="leading" constant="50" id="hYU-rf-Cxd"/>
                             <constraint firstItem="Slo-Jw-Rfs" firstAttribute="leading" secondItem="fgM-Zk-Imh" secondAttribute="leading" constant="50" id="jNL-fe-MNc"/>
@@ -366,7 +379,6 @@
                                 </state>
                                 <connections>
                                     <action selector="loginAction:" destination="Xaz-up-q2J" eventType="touchUpInside" id="FQv-sY-DvN"/>
-                                    <action selector="signUpAction:" destination="DTY-UE-aFA" eventType="touchUpInside" id="Bct-Fq-ybV"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -394,6 +406,7 @@
                         <outlet property="emailAddress" destination="izo-4G-f6c" id="Wkk-ut-jfN"/>
                         <outlet property="loginOutlet" destination="Srb-ms-lsy" id="JBV-3s-yh7"/>
                         <outlet property="password" destination="nHC-8u-pSZ" id="uHN-E0-8TU"/>
+                        <segue destination="jEY-2k-gMN" kind="show" identifier="toProfile" id="maE-NC-une"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="jOM-XY-9Tl" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -443,10 +456,19 @@
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
                             </button>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="xOl-wb-kUf">
-                                <rect key="frame" x="87" y="143" width="240" height="128"/>
+                            <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="veT-eL-9SR">
+                                <rect key="frame" x="109" y="775" width="0.0" height="0.0"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
+                                <items>
+                                    <barButtonItem title="Map" id="D48-5b-M3P"/>
+                                    <barButtonItem title="Ratings" id="5xB-nC-017"/>
+                                    <barButtonItem title="ForYou" id="pBQ-2X-kIJ"/>
+                                    <barButtonItem title="Profile" id="Ay7-Bg-fOk">
+                                        <color key="tintColor" red="0.99979740380000004" green="0.16457775080000001" blue="0.1537195657" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </barButtonItem>
+                                </items>
+                                <color key="barTintColor" red="0.70319885019999995" green="0.94109445810000003" blue="0.99979740380000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </toolbar>
                         </subviews>
                         <color key="backgroundColor" red="0.81200248003005981" green="0.93023264408111572" blue="0.978404700756073" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
@@ -461,9 +483,6 @@
                         <viewLayoutGuide key="safeArea" id="hoA-sn-ihA"/>
                     </view>
                     <navigationItem key="navigationItem" id="h5B-JM-nxa"/>
-                    <connections>
-                        <outlet property="imageView" destination="xOl-wb-kUf" id="iKL-y2-vvb"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="IwO-hO-Wkz" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -485,7 +504,9 @@
                                             <segue destination="BYZ-38-t0r" kind="show" id="lCr-VD-1iW"/>
                                         </connections>
                                     </barButtonItem>
-                                    <barButtonItem title="Ratings" id="IAo-CS-kba"/>
+                                    <barButtonItem title="Ratings" id="IAo-CS-kba">
+                                        <color key="tintColor" systemColor="systemRedColor" red="1" green="0.23137254900000001" blue="0.18823529410000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </barButtonItem>
                                     <barButtonItem title="ForYou" id="HkS-qZ-Swc">
                                         <connections>
                                             <segue destination="7dO-W1-G91" kind="show" id="w0I-51-FJ1"/>
@@ -519,9 +540,10 @@
         <image name="pin" width="1000" height="800"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="Aab-DW-rBS"/>
-        <segue reference="4c5-df-7MJ"/>
-        <segue reference="Hq2-fB-ezK"/>
+        <segue reference="GEw-uO-WdA"/>
+        <segue reference="maE-NC-une"/>
+        <segue reference="QSe-0v-gC6"/>
+        <segue reference="rII-nq-NZY"/>
         <segue reference="yvY-Sv-Ptk"/>
     </inferredMetricsTieBreakers>
 </document>
