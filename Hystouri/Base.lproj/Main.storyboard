@@ -171,7 +171,7 @@
                                     <constraint firstAttribute="width" constant="200" id="Z1M-KG-w87"/>
                                     <constraint firstAttribute="height" constant="50" id="qrg-sw-KJT"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="25"/>
+                                <fontDescription key="fontDescription" name="Rockwell-Regular" family="Rockwell" pointSize="25"/>
                                 <state key="normal" title="Log In">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -185,13 +185,12 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="I8e-ef-la3">
-                                <rect key="frame" x="61.5" y="423" width="291" height="50"/>
+                                <rect key="frame" x="50" y="423" width="314" height="50"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="tableCellGroupedBackgroundColor"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="291" id="3P5-tp-Ak3"/>
                                     <constraint firstAttribute="height" constant="50" id="66G-H4-8ju"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="20"/>
+                                <fontDescription key="fontDescription" name="Rockwell-Regular" family="Rockwell" pointSize="20"/>
                                 <state key="normal" title="Dont have an account? Sign Up!">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -209,7 +208,7 @@
                         <constraints>
                             <constraint firstItem="8GU-JT-Ecj" firstAttribute="top" secondItem="uAR-MW-XMF" secondAttribute="top" constant="340" id="46e-f6-elT"/>
                             <constraint firstAttribute="bottom" secondItem="I2I-bO-oTM" secondAttribute="bottom" constant="20" id="4zC-n1-Uf9"/>
-                            <constraint firstItem="I8e-ef-la3" firstAttribute="centerX" secondItem="1MJ-Yb-LkL" secondAttribute="centerX" id="K9h-rM-iJ6"/>
+                            <constraint firstItem="I8e-ef-la3" firstAttribute="centerX" secondItem="1MJ-Yb-LkL" secondAttribute="centerX" id="QDc-sb-L3A"/>
                             <constraint firstItem="8GU-JT-Ecj" firstAttribute="leading" secondItem="uAR-MW-XMF" secondAttribute="leading" constant="107" id="ZGO-bY-Ux4"/>
                             <constraint firstItem="I2I-bO-oTM" firstAttribute="trailing" secondItem="uAR-MW-XMF" secondAttribute="trailing" id="kKz-Xb-NCP"/>
                             <constraint firstItem="I8e-ef-la3" firstAttribute="top" secondItem="8GU-JT-Ecj" secondAttribute="bottom" constant="33" id="kmq-ti-d8S"/>
@@ -234,39 +233,26 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="User Name" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IB4-0N-rgy">
-                                <rect key="frame" x="50" y="50" width="86" height="20"/>
-                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Email Address" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yhZ-LU-qEN">
+                                <rect key="frame" x="50" y="174" width="123" height="20"/>
+                                <fontDescription key="fontDescription" name="Rockwell-Regular" family="Rockwell" pointSize="17"/>
                                 <color key="textColor" systemColor="systemRedColor" red="1" green="0.23137254900000001" blue="0.18823529410000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="jvd-um-aXX">
-                                <rect key="frame" x="50" y="90" width="314" height="34"/>
-                                <color key="backgroundColor" red="1" green="0.65735938451623288" blue="0.5940904765067182" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
-                                <textInputTraits key="textInputTraits"/>
-                            </textField>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Email Address" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yhZ-LU-qEN">
-                                <rect key="frame" x="50" y="174" width="109" height="20"/>
-                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
-                                <color key="textColor" systemColor="systemRedColor" red="1" green="0.23137254900000001" blue="0.18823529410000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="SFw-Je-MBE">
+                            <textField opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="SFw-Je-MBE">
                                 <rect key="frame" x="50" y="214" width="314" height="34"/>
                                 <color key="backgroundColor" red="0.95078974962234497" green="0.67752742767333984" blue="0.61536687612533569" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
                                 <textInputTraits key="textInputTraits" textContentType="email"/>
                             </textField>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Password" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Slo-Jw-Rfs">
-                                <rect key="frame" x="50" y="298" width="76" height="20"/>
-                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Password" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Slo-Jw-Rfs">
+                                <rect key="frame" x="50" y="298" width="80.5" height="20"/>
+                                <fontDescription key="fontDescription" name="Rockwell-Regular" family="Rockwell" pointSize="17"/>
                                 <color key="textColor" systemColor="systemRedColor" red="1" green="0.23137254900000001" blue="0.18823529410000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="jcV-by-jGx">
+                            <textField opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="jcV-by-jGx">
                                 <rect key="frame" x="50" y="338" width="314" height="34"/>
                                 <color key="backgroundColor" red="0.95078974959999996" green="0.67752742769999996" blue="0.61536687609999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -274,9 +260,9 @@
                                 <textInputTraits key="textInputTraits" textContentType="password"/>
                             </textField>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jln-ko-X9H">
-                                <rect key="frame" x="144" y="636" width="126" height="53"/>
+                                <rect key="frame" x="138.5" y="544" width="137" height="47"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="35"/>
+                                <fontDescription key="fontDescription" name="Rockwell-Regular" family="Rockwell" pointSize="35"/>
                                 <state key="normal" title="Sign Up">
                                     <color key="titleColor" red="0.089966859411309108" green="0.15333414862572026" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
@@ -301,26 +287,18 @@
                         <constraints>
                             <constraint firstItem="cwd-xS-h1l" firstAttribute="bottom" secondItem="fgM-Zk-Imh" secondAttribute="bottom" constant="20" id="1Ai-2V-Ub4"/>
                             <constraint firstItem="Slo-Jw-Rfs" firstAttribute="top" secondItem="SFw-Je-MBE" secondAttribute="bottom" constant="50" id="1bP-S9-T96"/>
-                            <constraint firstItem="IB4-0N-rgy" firstAttribute="top" secondItem="fgM-Zk-Imh" secondAttribute="top" constant="50" id="7Tm-ag-H7B"/>
                             <constraint firstItem="fgM-Zk-Imh" firstAttribute="trailing" secondItem="SFw-Je-MBE" secondAttribute="trailing" constant="50" id="9Yp-bX-WFH"/>
-                            <constraint firstItem="jvd-um-aXX" firstAttribute="top" secondItem="IB4-0N-rgy" secondAttribute="bottom" constant="20" id="C8k-Hf-6pz"/>
-                            <constraint firstItem="IB4-0N-rgy" firstAttribute="leading" secondItem="fgM-Zk-Imh" secondAttribute="leading" constant="50" id="DA2-v6-8ud"/>
                             <constraint firstItem="SFw-Je-MBE" firstAttribute="top" secondItem="yhZ-LU-qEN" secondAttribute="bottom" constant="20" id="Evq-Za-VBO"/>
                             <constraint firstItem="yhZ-LU-qEN" firstAttribute="leading" secondItem="fgM-Zk-Imh" secondAttribute="leading" constant="50" id="GMU-hr-rmD"/>
-                            <constraint firstItem="fgM-Zk-Imh" firstAttribute="trailing" secondItem="jln-ko-X9H" secondAttribute="trailing" constant="144" id="JOd-2T-I0C"/>
-                            <constraint firstItem="yhZ-LU-qEN" firstAttribute="top" secondItem="jvd-um-aXX" secondAttribute="bottom" constant="50" id="Ngm-Xs-oBd"/>
                             <constraint firstItem="jcV-by-jGx" firstAttribute="leading" secondItem="fgM-Zk-Imh" secondAttribute="leading" constant="50" id="PCw-PW-sST"/>
-                            <constraint firstItem="fgM-Zk-Imh" firstAttribute="bottom" secondItem="jln-ko-X9H" secondAttribute="bottom" constant="119" id="Wvq-Id-ZFC"/>
                             <constraint firstItem="SFw-Je-MBE" firstAttribute="leading" secondItem="fgM-Zk-Imh" secondAttribute="leading" constant="50" id="Yss-2h-nNF"/>
                             <constraint firstItem="cwd-xS-h1l" firstAttribute="leading" secondItem="fgM-Zk-Imh" secondAttribute="leading" id="Ywy-Na-H5X"/>
                             <constraint firstItem="jcV-by-jGx" firstAttribute="top" secondItem="Slo-Jw-Rfs" secondAttribute="bottom" constant="20" id="eUa-DB-FyH"/>
                             <constraint firstItem="cwd-xS-h1l" firstAttribute="trailing" secondItem="fgM-Zk-Imh" secondAttribute="trailing" id="fXJ-wH-YQr"/>
                             <constraint firstItem="jln-ko-X9H" firstAttribute="centerX" secondItem="qrK-Zo-8QW" secondAttribute="centerX" id="hSg-nA-Jrz"/>
-                            <constraint firstItem="jvd-um-aXX" firstAttribute="leading" secondItem="fgM-Zk-Imh" secondAttribute="leading" constant="50" id="hYU-rf-Cxd"/>
                             <constraint firstItem="Slo-Jw-Rfs" firstAttribute="leading" secondItem="fgM-Zk-Imh" secondAttribute="leading" constant="50" id="jNL-fe-MNc"/>
-                            <constraint firstItem="fgM-Zk-Imh" firstAttribute="trailing" secondItem="jvd-um-aXX" secondAttribute="trailing" constant="50" id="kgp-lB-I1v"/>
                             <constraint firstItem="fgM-Zk-Imh" firstAttribute="trailing" secondItem="jcV-by-jGx" secondAttribute="trailing" constant="50" id="myo-af-cKQ"/>
-                            <constraint firstItem="jln-ko-X9H" firstAttribute="leading" secondItem="fgM-Zk-Imh" secondAttribute="leading" constant="144" id="rQk-01-H8O"/>
+                            <constraint firstItem="cwd-xS-h1l" firstAttribute="top" secondItem="jln-ko-X9H" secondAttribute="bottom" constant="188" id="tHc-l5-8tn"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="fgM-Zk-Imh"/>
                     </view>
@@ -329,7 +307,6 @@
                         <outlet property="emailAddress" destination="SFw-Je-MBE" id="vJ5-cQ-ZG4"/>
                         <outlet property="password" destination="jcV-by-jGx" id="ns3-IQ-8yA"/>
                         <outlet property="signUpOutlet" destination="jln-ko-X9H" id="Eu5-GU-Bj4"/>
-                        <outlet property="userName" destination="jvd-um-aXX" id="y76-qp-5Lb"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="PpE-3U-9qo" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -345,35 +322,41 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Email Address" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Hrs-4R-jPz">
-                                <rect key="frame" x="50" y="50" width="109" height="20"/>
-                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
+                                <rect key="frame" x="50" y="274" width="123" height="17"/>
+                                <fontDescription key="fontDescription" name="Rockwell-Regular" family="Rockwell" pointSize="17"/>
                                 <color key="textColor" systemColor="systemRedColor" red="1" green="0.23137254900000001" blue="0.18823529410000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="izo-4G-f6c">
-                                <rect key="frame" x="50" y="90" width="314" height="34"/>
+                                <rect key="frame" x="50" y="311" width="314" height="34"/>
                                 <color key="backgroundColor" red="0.95078974959999996" green="0.67752742769999996" blue="0.61536687609999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
                                 <textInputTraits key="textInputTraits" textContentType="email"/>
                             </textField>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Password" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JJk-vK-OYs">
-                                <rect key="frame" x="50" y="174" width="76" height="20"/>
-                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
+                                <rect key="frame" x="50" y="395" width="80.5" height="17"/>
+                                <fontDescription key="fontDescription" name="Rockwell-Regular" family="Rockwell" pointSize="17"/>
                                 <color key="textColor" systemColor="systemRedColor" red="1" green="0.23137254900000001" blue="0.18823529410000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="nHC-8u-pSZ">
-                                <rect key="frame" x="50" y="214" width="314" height="34"/>
+                                <rect key="frame" x="50" y="432" width="314" height="34"/>
                                 <color key="backgroundColor" red="0.95078974959999996" green="0.67752742769999996" blue="0.61536687609999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
                                 <textInputTraits key="textInputTraits" textContentType="password"/>
                             </textField>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Hello, welcome back!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="h4G-5D-Zys">
+                                <rect key="frame" x="17.5" y="140" width="379" height="35"/>
+                                <fontDescription key="fontDescription" name="Rockwell-Regular" family="Rockwell" pointSize="35"/>
+                                <color key="textColor" red="0.089966859410000002" green="0.1533341486" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Srb-ms-lsy">
-                                <rect key="frame" x="158" y="680" width="98" height="53"/>
+                                <rect key="frame" x="152" y="573" width="110" height="47"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="35"/>
+                                <fontDescription key="fontDescription" name="Rockwell-Regular" family="Rockwell" pointSize="35"/>
                                 <state key="normal" title="Log In">
                                     <color key="titleColor" red="0.089966859410000002" green="0.1533341486" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
@@ -384,19 +367,19 @@
                         </subviews>
                         <color key="backgroundColor" red="0.78533393144607544" green="0.9329255223274231" blue="0.98520070314407349" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
+                            <constraint firstItem="h4G-5D-Zys" firstAttribute="centerX" secondItem="oJc-ya-AtF" secondAttribute="centerX" id="125-EP-RpG"/>
                             <constraint firstItem="izo-4G-f6c" firstAttribute="top" secondItem="Hrs-4R-jPz" secondAttribute="bottom" constant="20" id="2g5-RW-Ikc"/>
                             <constraint firstItem="izo-4G-f6c" firstAttribute="leading" secondItem="qa8-G2-ld8" secondAttribute="leading" constant="50" id="8e3-TD-tZB"/>
+                            <constraint firstItem="h4G-5D-Zys" firstAttribute="top" secondItem="qa8-G2-ld8" secondAttribute="top" constant="140" id="DYp-Yr-Aut"/>
+                            <constraint firstItem="qa8-G2-ld8" firstAttribute="bottom" secondItem="Srb-ms-lsy" secondAttribute="bottom" constant="188" id="JZc-vs-7hO"/>
                             <constraint firstItem="JJk-vK-OYs" firstAttribute="leading" secondItem="qa8-G2-ld8" secondAttribute="leading" constant="50" id="MsP-5F-ZJc"/>
                             <constraint firstItem="qa8-G2-ld8" firstAttribute="trailing" secondItem="nHC-8u-pSZ" secondAttribute="trailing" constant="50" id="RsJ-sc-sko"/>
-                            <constraint firstItem="Hrs-4R-jPz" firstAttribute="top" secondItem="qa8-G2-ld8" secondAttribute="top" constant="50" id="Syr-b9-ECD"/>
-                            <constraint firstItem="qa8-G2-ld8" firstAttribute="trailing" secondItem="Srb-ms-lsy" secondAttribute="trailing" constant="158" id="cXP-56-3j7"/>
                             <constraint firstItem="qa8-G2-ld8" firstAttribute="trailing" secondItem="izo-4G-f6c" secondAttribute="trailing" constant="50" id="cbW-Dw-GQU"/>
                             <constraint firstItem="Srb-ms-lsy" firstAttribute="centerX" secondItem="oJc-ya-AtF" secondAttribute="centerX" id="dWM-p1-4YY"/>
                             <constraint firstItem="JJk-vK-OYs" firstAttribute="top" secondItem="izo-4G-f6c" secondAttribute="bottom" constant="50" id="ehr-ET-02w"/>
                             <constraint firstItem="nHC-8u-pSZ" firstAttribute="leading" secondItem="qa8-G2-ld8" secondAttribute="leading" constant="50" id="gLv-Gi-bqT"/>
-                            <constraint firstItem="qa8-G2-ld8" firstAttribute="bottom" secondItem="Srb-ms-lsy" secondAttribute="bottom" constant="75" id="hHK-NX-E3j"/>
+                            <constraint firstItem="Hrs-4R-jPz" firstAttribute="top" secondItem="qa8-G2-ld8" secondAttribute="top" constant="274" id="iem-me-InR"/>
                             <constraint firstItem="nHC-8u-pSZ" firstAttribute="top" secondItem="JJk-vK-OYs" secondAttribute="bottom" constant="20" id="mjk-Er-FJV"/>
-                            <constraint firstItem="Srb-ms-lsy" firstAttribute="leading" secondItem="qa8-G2-ld8" secondAttribute="leading" constant="158" id="rzT-4X-neH"/>
                             <constraint firstItem="Hrs-4R-jPz" firstAttribute="leading" secondItem="qa8-G2-ld8" secondAttribute="leading" constant="50" id="syr-gQ-tJh"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="qa8-G2-ld8"/>
@@ -411,7 +394,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="jOM-XY-9Tl" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1789" y="-198"/>
+            <point key="canvasLocation" x="1788.4057971014495" y="-198.21428571428569"/>
         </scene>
         <!--Actual Profile View Controller-->
         <scene sceneID="hbF-cq-7Xg">
@@ -429,7 +412,7 @@
                                     <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="50" id="VNV-Cf-Xjo"/>
                                     <constraint firstAttribute="height" constant="50" id="aiz-Hg-GJR"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="25"/>
+                                <fontDescription key="fontDescription" name="Rockwell-Regular" family="Rockwell" pointSize="25"/>
                                 <state key="normal" title="Change Profile">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -446,7 +429,7 @@
                                     <constraint firstAttribute="width" constant="200" id="cMv-EZ-YTi"/>
                                     <constraint firstAttribute="height" constant="50" id="lov-KR-QjJ"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="25"/>
+                                <fontDescription key="fontDescription" name="Rockwell-Regular" family="Rockwell" pointSize="25"/>
                                 <state key="normal" title="Sign Out">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -469,6 +452,10 @@
                                 </items>
                                 <color key="barTintColor" red="0.70319885019999995" green="0.94109445810000003" blue="0.99979740380000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </toolbar>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="6Tx-yM-rla">
+                                <rect key="frame" x="87" y="159" width="240" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" red="0.81200248003005981" green="0.93023264408111572" blue="0.978404700756073" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
@@ -541,7 +528,7 @@
     </resources>
     <inferredMetricsTieBreakers>
         <segue reference="GEw-uO-WdA"/>
-        <segue reference="maE-NC-une"/>
+        <segue reference="kwu-k0-SNR"/>
         <segue reference="QSe-0v-gC6"/>
         <segue reference="rII-nq-NZY"/>
         <segue reference="yvY-Sv-Ptk"/>
