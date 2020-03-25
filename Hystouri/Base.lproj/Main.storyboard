@@ -421,6 +421,9 @@
                                         <integer key="value" value="20"/>
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="changeImageTouchedUp:" destination="jEY-2k-gMN" eventType="touchUpInside" id="jil-dQ-RJa"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Q9G-7Y-hC9">
                                 <rect key="frame" x="107" y="683" width="200" height="50"/>
@@ -470,6 +473,9 @@
                         <viewLayoutGuide key="safeArea" id="hoA-sn-ihA"/>
                     </view>
                     <navigationItem key="navigationItem" id="h5B-JM-nxa"/>
+                    <connections>
+                        <outlet property="imageView" destination="6Tx-yM-rla" id="j6d-5N-LdD"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="IwO-hO-Wkz" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
