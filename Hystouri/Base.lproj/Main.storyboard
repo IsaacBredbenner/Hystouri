@@ -80,6 +80,7 @@
                     <connections>
                         <outlet property="addressLabel" destination="JiV-Ji-uy5" id="iZT-Vb-gic"/>
                         <outlet property="mapView" destination="Vqq-id-4cz" id="Wf4-52-dwW"/>
+                        <segue destination="TSG-ld-iqJ" kind="show" identifier="waypointSegue" id="GZT-qp-piX"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
@@ -131,6 +132,100 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="GHD-wH-LWT" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="188" y="404"/>
+        </scene>
+        <!--Waypoint View Controller-->
+        <scene sceneID="epM-Y4-XmN">
+            <objects>
+                <viewController id="TSG-ld-iqJ" customClass="WaypointViewController" customModule="Hystouri" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="baV-3C-O4x">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Klf-or-XPy">
+                                <rect key="frame" x="0.0" y="759" width="414" height="49"/>
+                                <items>
+                                    <barButtonItem title="Map" id="d45-5J-rNt">
+                                        <connections>
+                                            <segue destination="BYZ-38-t0r" kind="show" id="B7Y-a7-641"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem title="Ratings" id="Ehe-yC-Ttr">
+                                        <connections>
+                                            <segue destination="O14-HD-IGT" kind="show" id="zym-2d-tTS"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem title="ForYou" id="Gfe-p7-hbQ">
+                                        <connections>
+                                            <segue destination="7dO-W1-G91" kind="show" id="tPV-g8-vo7"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem title="Profile" id="fT5-bH-tAm">
+                                        <connections>
+                                            <segue destination="BRo-8y-zhl" kind="show" id="atJ-w5-iSu"/>
+                                        </connections>
+                                    </barButtonItem>
+                                </items>
+                            </toolbar>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hms-fJ-Kqv">
+                                <rect key="frame" x="0.0" y="50" width="414" height="23.5"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="20"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="S7L-aB-NxZ">
+                                <rect key="frame" x="0.0" y="98.5" width="414" height="23.5"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="20"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6Hh-9T-HGx">
+                                <rect key="frame" x="0.0" y="147" width="414" height="23.5"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="20"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rFz-sR-cju">
+                                <rect key="frame" x="0.0" y="195.5" width="414" height="23.5"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="20"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.78533393144607544" green="0.9329255223274231" blue="0.98520070314407349" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="S7L-aB-NxZ" firstAttribute="top" secondItem="hms-fJ-Kqv" secondAttribute="bottom" constant="25" id="3Ux-f9-VI9"/>
+                            <constraint firstItem="QdK-Ix-lis" firstAttribute="trailing" secondItem="hms-fJ-Kqv" secondAttribute="trailing" id="B3z-jP-hTe"/>
+                            <constraint firstItem="QdK-Ix-lis" firstAttribute="trailing" secondItem="S7L-aB-NxZ" secondAttribute="trailing" id="GzJ-P4-QeB"/>
+                            <constraint firstItem="6Hh-9T-HGx" firstAttribute="top" secondItem="S7L-aB-NxZ" secondAttribute="bottom" constant="25" id="LMe-m6-3QG"/>
+                            <constraint firstItem="QdK-Ix-lis" firstAttribute="trailing" secondItem="6Hh-9T-HGx" secondAttribute="trailing" id="MsB-hQ-0OI"/>
+                            <constraint firstItem="6Hh-9T-HGx" firstAttribute="leading" secondItem="QdK-Ix-lis" secondAttribute="leading" id="Omp-2R-dI0"/>
+                            <constraint firstItem="hms-fJ-Kqv" firstAttribute="centerX" secondItem="baV-3C-O4x" secondAttribute="centerX" id="PgT-jg-dLz"/>
+                            <constraint firstItem="hms-fJ-Kqv" firstAttribute="top" secondItem="QdK-Ix-lis" secondAttribute="top" constant="50" id="RNz-PX-csX"/>
+                            <constraint firstItem="S7L-aB-NxZ" firstAttribute="leading" secondItem="QdK-Ix-lis" secondAttribute="leading" id="WlG-zq-9gy"/>
+                            <constraint firstItem="Klf-or-XPy" firstAttribute="trailing" secondItem="QdK-Ix-lis" secondAttribute="trailing" id="Wy1-EM-Mvm"/>
+                            <constraint firstItem="rFz-sR-cju" firstAttribute="top" secondItem="6Hh-9T-HGx" secondAttribute="bottom" constant="25" id="a99-qU-aHr"/>
+                            <constraint firstItem="QdK-Ix-lis" firstAttribute="bottom" secondItem="Klf-or-XPy" secondAttribute="bottom" id="eDn-lc-dGF"/>
+                            <constraint firstItem="QdK-Ix-lis" firstAttribute="trailing" secondItem="rFz-sR-cju" secondAttribute="trailing" id="frq-zk-8rG"/>
+                            <constraint firstItem="rFz-sR-cju" firstAttribute="leading" secondItem="QdK-Ix-lis" secondAttribute="leading" id="gS9-Bs-ye2"/>
+                            <constraint firstItem="hms-fJ-Kqv" firstAttribute="leading" secondItem="QdK-Ix-lis" secondAttribute="leading" id="j1J-vT-5nX"/>
+                            <constraint firstItem="S7L-aB-NxZ" firstAttribute="centerX" secondItem="baV-3C-O4x" secondAttribute="centerX" id="m48-qY-NE0"/>
+                            <constraint firstItem="6Hh-9T-HGx" firstAttribute="centerX" secondItem="baV-3C-O4x" secondAttribute="centerX" id="nGb-NV-CQH"/>
+                            <constraint firstItem="rFz-sR-cju" firstAttribute="centerX" secondItem="baV-3C-O4x" secondAttribute="centerX" id="qlL-3O-W8m"/>
+                            <constraint firstItem="Klf-or-XPy" firstAttribute="leading" secondItem="QdK-Ix-lis" secondAttribute="leading" id="u4x-5u-Y8R"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="QdK-Ix-lis"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="PgO-YZ-Si3"/>
+                    <connections>
+                        <outlet property="commentLabel" destination="S7L-aB-NxZ" id="xCP-nW-6Px"/>
+                        <outlet property="descriptionLabel" destination="6Hh-9T-HGx" id="eyN-mk-fks"/>
+                        <outlet property="linkLabel" destination="rFz-sR-cju" id="zPv-FM-XlE"/>
+                        <outlet property="nameLabel" destination="hms-fJ-Kqv" id="7PD-CF-FDl"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="wGG-QZ-APi" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="200" y="1088"/>
         </scene>
         <!--Profile View Controller-->
         <scene sceneID="7Wy-yz-95B">
@@ -533,10 +628,10 @@
         <image name="pin" width="1000" height="800"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="GEw-uO-WdA"/>
+        <segue reference="Aab-DW-rBS"/>
         <segue reference="kwu-k0-SNR"/>
-        <segue reference="QSe-0v-gC6"/>
-        <segue reference="rII-nq-NZY"/>
-        <segue reference="yvY-Sv-Ptk"/>
+        <segue reference="4c5-df-7MJ"/>
+        <segue reference="Hq2-fB-ezK"/>
+        <segue reference="B7Y-a7-641"/>
     </inferredMetricsTieBreakers>
 </document>

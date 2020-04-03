@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		5253478C2437AFAF00DE1E29 /* ExampleGPX.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 5253478B2437AFAF00DE1E29 /* ExampleGPX.gpx */; };
+		5253478E2437B22700DE1E29 /* Pin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5253478D2437B22700DE1E29 /* Pin.swift */; };
+		525347902437B25300DE1E29 /* Waypoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5253478F2437B25300DE1E29 /* Waypoint.swift */; };
+		525347922437B27800DE1E29 /* XML.swift in Sources */ = {isa = PBXBuildFile; fileRef = 525347912437B27800DE1E29 /* XML.swift */; };
+		525347942437B82B00DE1E29 /* WaypointViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 525347932437B82B00DE1E29 /* WaypointViewController.swift */; };
+		525347962437C90000DE1E29 /* ExampleNYCGPX.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 525347952437C90000DE1E29 /* ExampleNYCGPX.gpx */; };
 		52B8979C23FC665E001CC298 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B8979B23FC665E001CC298 /* AppDelegate.swift */; };
 		52B8979E23FC665E001CC298 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B8979D23FC665E001CC298 /* SceneDelegate.swift */; };
 		52B897A023FC665E001CC298 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B8979F23FC665E001CC298 /* MapViewController.swift */; };
@@ -45,6 +50,11 @@
 /* Begin PBXFileReference section */
 		12D57088B0DED1F005E0E90C /* Pods-Hystouri.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Hystouri.release.xcconfig"; path = "Target Support Files/Pods-Hystouri/Pods-Hystouri.release.xcconfig"; sourceTree = "<group>"; };
 		5253478B2437AFAF00DE1E29 /* ExampleGPX.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = ExampleGPX.gpx; sourceTree = "<group>"; };
+		5253478D2437B22700DE1E29 /* Pin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pin.swift; sourceTree = "<group>"; };
+		5253478F2437B25300DE1E29 /* Waypoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Waypoint.swift; sourceTree = "<group>"; };
+		525347912437B27800DE1E29 /* XML.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XML.swift; sourceTree = "<group>"; };
+		525347932437B82B00DE1E29 /* WaypointViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaypointViewController.swift; sourceTree = "<group>"; };
+		525347952437C90000DE1E29 /* ExampleNYCGPX.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = ExampleNYCGPX.gpx; sourceTree = "<group>"; };
 		52B8979823FC665E001CC298 /* Hystouri.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hystouri.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		52B8979B23FC665E001CC298 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		52B8979D23FC665E001CC298 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -135,6 +145,7 @@
 				52B8979F23FC665E001CC298 /* MapViewController.swift */,
 				52B897A123FC665E001CC298 /* Main.storyboard */,
 				5253478B2437AFAF00DE1E29 /* ExampleGPX.gpx */,
+				525347952437C90000DE1E29 /* ExampleNYCGPX.gpx */,
 				52B897A423FC6664001CC298 /* Assets.xcassets */,
 				52B897A623FC6664001CC298 /* LaunchScreen.storyboard */,
 				5397D03B2400459F0060F602 /* GoogleService-Info.plist */,
@@ -143,6 +154,10 @@
 				537896D92404474100D65AFB /* LogInViewController.swift */,
 				537896DB240447B500D65AFB /* ProfileViewController.swift */,
 				537896DD24082AC100D65AFB /* ActualProfileViewController.swift */,
+				5253478D2437B22700DE1E29 /* Pin.swift */,
+				5253478F2437B25300DE1E29 /* Waypoint.swift */,
+				525347912437B27800DE1E29 /* XML.swift */,
+				525347932437B82B00DE1E29 /* WaypointViewController.swift */,
 			);
 			path = Hystouri;
 			sourceTree = "<group>";
@@ -283,6 +298,7 @@
 				5397D03C2400459F0060F602 /* GoogleService-Info.plist in Resources */,
 				52B897A523FC6664001CC298 /* Assets.xcassets in Resources */,
 				5253478C2437AFAF00DE1E29 /* ExampleGPX.gpx in Resources */,
+				525347962437C90000DE1E29 /* ExampleNYCGPX.gpx in Resources */,
 				52B897A323FC665E001CC298 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -336,7 +352,11 @@
 				537896DC240447B500D65AFB /* ProfileViewController.swift in Sources */,
 				52B897A023FC665E001CC298 /* MapViewController.swift in Sources */,
 				52B8979C23FC665E001CC298 /* AppDelegate.swift in Sources */,
+				525347942437B82B00DE1E29 /* WaypointViewController.swift in Sources */,
+				5253478E2437B22700DE1E29 /* Pin.swift in Sources */,
 				537896DE24082AC100D65AFB /* ActualProfileViewController.swift in Sources */,
+				525347922437B27800DE1E29 /* XML.swift in Sources */,
+				525347902437B25300DE1E29 /* Waypoint.swift in Sources */,
 				537896D82404471800D65AFB /* SignUpViewController.swift in Sources */,
 				537896DA2404474100D65AFB /* LogInViewController.swift in Sources */,
 				52B8979E23FC665E001CC298 /* SceneDelegate.swift in Sources */,
