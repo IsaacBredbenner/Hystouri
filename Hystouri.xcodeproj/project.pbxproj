@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5253478C2437AFAF00DE1E29 /* ExampleGPX.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 5253478B2437AFAF00DE1E29 /* ExampleGPX.gpx */; };
 		52B8979C23FC665E001CC298 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B8979B23FC665E001CC298 /* AppDelegate.swift */; };
 		52B8979E23FC665E001CC298 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B8979D23FC665E001CC298 /* SceneDelegate.swift */; };
 		52B897A023FC665E001CC298 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B8979F23FC665E001CC298 /* MapViewController.swift */; };
@@ -43,6 +44,7 @@
 
 /* Begin PBXFileReference section */
 		12D57088B0DED1F005E0E90C /* Pods-Hystouri.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Hystouri.release.xcconfig"; path = "Target Support Files/Pods-Hystouri/Pods-Hystouri.release.xcconfig"; sourceTree = "<group>"; };
+		5253478B2437AFAF00DE1E29 /* ExampleGPX.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = ExampleGPX.gpx; sourceTree = "<group>"; };
 		52B8979823FC665E001CC298 /* Hystouri.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hystouri.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		52B8979B23FC665E001CC298 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		52B8979D23FC665E001CC298 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 				52B8979D23FC665E001CC298 /* SceneDelegate.swift */,
 				52B8979F23FC665E001CC298 /* MapViewController.swift */,
 				52B897A123FC665E001CC298 /* Main.storyboard */,
+				5253478B2437AFAF00DE1E29 /* ExampleGPX.gpx */,
 				52B897A423FC6664001CC298 /* Assets.xcassets */,
 				52B897A623FC6664001CC298 /* LaunchScreen.storyboard */,
 				5397D03B2400459F0060F602 /* GoogleService-Info.plist */,
@@ -279,6 +282,7 @@
 				52B897A823FC6664001CC298 /* LaunchScreen.storyboard in Resources */,
 				5397D03C2400459F0060F602 /* GoogleService-Info.plist in Resources */,
 				52B897A523FC6664001CC298 /* Assets.xcassets in Resources */,
+				5253478C2437AFAF00DE1E29 /* ExampleGPX.gpx in Resources */,
 				52B897A323FC665E001CC298 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

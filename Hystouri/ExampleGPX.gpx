@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+
+<gpx xmlns="https://www.topografix.com/GPX/1/1" creator="hmdb.org" version="1.1" 
+    xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="https://www.topografix.com/GPX/1/1 https://www.topografix.com/GPX/1/1/gpx.xsd">
+    
+  <metadata>
+    <name>The Historical Marker Database - Selected Markers</name>
+    <desc>This file contains as waypoints the location of one or more historical markers selected from the database.</desc>
+    <author>
+        <name>hmdb.org</name>
+        <email id="editor" domain="hmdb.org"></email>
+        <link href="https://www.hmdb.org"></link>
+    </author>
+        <time>2020-04-03T12:17:00-05:00</time>
+  </metadata>  
+
+  <wpt lat="40.02771667" lon="-75.19291667">
+    <name><![CDATA[Battle of Germantown]]></name>
+    <cmt><![CDATA[Near Wissahickon Drive (aka Forbidden Drive), Philadelphia, ]]></cmt>
+    <desc><![CDATA[On the morning of the Battle of Germantown, 
+October 4 1777, 
+the Pennsylvania Militia, under
+Gen'l John Armstrong, 
+occupying the high ground on the west side
+of the creek opposite this point, engaged in a skirmish the left wing of the British forces, 
+in command of Lieut.-Gen'l Knyphausen, 
+who occupied the high ground on the 
+east side, along Schoolhouse Lane.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=24885"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.004314" lon="-75.188177">
+    <name><![CDATA[Lieutenant Joseph Bonnell]]></name>
+    <cmt><![CDATA[Near Ridge Avenue, Philadelphia, ]]></cmt>
+    <desc><![CDATA[On April 7, 1836, Lieutenant Joseph Bonnell, West Point Class of 1825, 3rd Infantry Regiment, U.S. Army, Fort Jesup, Louisiana, was sent alone into Texas by U.S. General Gaines to quell an uprising of 1,700 hostile Indians which threatened the small Texas Army of General Sam Houston. Lieutenant Bonnell completed this dangerous mission by successfully negotiating with Caddo Chief Cortes to have the warriors return to their villages and live in peace. Bonnell’s success greatly assisted Houston’s Army in prevailing at the Battle of San Jacinto on April 21, 1836. Captain Joseph Bonnell, who died on September 27, 1840, was the only active duty U.S. Army officer who was a Hero of the War for Texas Independence.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=40778"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.00218" lon="-75.186952">
+    <name><![CDATA[Commercial Digital Computer Birthplace]]></name>
+    <cmt><![CDATA[On Ridge Avenue, Philadelphia, (On the right when traveling north)]]></cmt>
+    <desc><![CDATA[<center>BINAC, the world’s first commercial, electronic, stored program, digital computer passed verification tests here, at 3747 Ridge Ave., on April 7, 1949. Customer acceptance of UNIVAC I, the world’s first open market, commercial computer, followed on March 30, 1951. J. Presper Eckert and John W. Mauchly, co-inventors of ENIAC, led the development of both of these pioneering machines, which launched the commercial computer age.</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=40918"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.004271" lon="-75.187489">
+    <name><![CDATA[Laurel Hill Cemetery]]></name>
+    <cmt><![CDATA[On Ridge Avenue, Philadelphia, (On the left when traveling north)]]></cmt>
+    <desc><![CDATA[<br>Founded in 1836 and designed by Scottish architect John Notman, this was the nation’s second major rural cemetery. With its rolling landscape, horticultural plantings, and eclectic architecture, it offered a romantic alternative to the crowded urban environment. Overlooking the Schuylkill River, 3.5 miles north of center-city, it had grown by 1861 to 78 acres. This cemetery was designated a National Historic Landmark in 1998.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=40919"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.005018" lon="-75.189696">
+    <name><![CDATA[Commodore Isaac Hull]]></name>
+    <cmt><![CDATA[On Ridge Avenue, Philadelphia, (On the left when traveling north)]]></cmt>
+    <desc><![CDATA[A defender of American freedom and pioneer of a new nation. He lifted the spirits of an entire nation by defeating the British on the high seas, while commanding <i>USS Constitution</i> &#8220;Old Ironsides&#8221; in battle with <i>HMS Guerriere</i> on 19 August 1812. He is an American hero who dedicated his life to his country.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=40929"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.002824" lon="-75.189164">
+    <name><![CDATA[Rear Admiral John Adolphus Bernard Dahlgren]]></name>
+    <cmt><![CDATA[Near Ridge Avenue, Philadelphia, (On the left when traveling north)]]></cmt>
+    <desc><![CDATA[<center>Sailor, Scientist, Scholar, Teacher, Author<br> &#8220;The Father of Modern Naval Ordnance&#8221;</center><br>His contribution to the design of naval ordnance and ship construction revolutionized the navies of the world.<br><br>This memorial is erected on behalf of a grateful Navy, by the officers and men of the U.S.S. Dahlgren, a guided missile frigate and the third proud ship to bear this illustrious name.<br><br>Dedicated on 15 April 1961, in the centennial year of the War between the States, in which Rear Admiral Dahlgren served the Union forces with distinction as Commander of the South Atlantic blockading squadron.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=40959"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.004416" lon="-75.189142">
+    <name><![CDATA[General Hugh Mercer]]></name>
+    <cmt><![CDATA[Near Ridge Avenue, Philadelphia, (On the left when traveling north)]]></cmt>
+    <desc><![CDATA[<center></b><br>General<br>Hugh Mercer<br>a native of Scotland;<br>as assistant surgeon<br>in the Battle of<br>Culloden;<br><br>The companion of<br>Washington in the <br>Indian Wars of<br>1755 &#8211; 56;<br><br>He received a medal<br>from the Corporation<br>of Philadelphia for<br>courage and conduct<br>in the Indian<br>settlement at<br>Kittanning.<br><br><b>[ <i>Left Plaque</i> ]</b><br>Dedicated to the<br>memory of<br><b>General Hugh Mercer</b><br>who fell for the<br>sacred cause of<br>human liberty and<br>American Independence<br>in the Battle of<br>Princeton.<br><br>He poured out his<br>blood for a<br>generous principle.<br><br><b>[ <i>Right Plaque</i> ]</b><br>General<br>Hugh Mercer,<br>a physician of<br>Fredericksburg<br>Virginia, was<br>distinguished for<br>his skill and learning,<br>his gentleness and<br>decision, his<br>refinement and<br>humanity, his elevated<br>honour and his<br>devotion to the great<br>cause of civil and<br>religious liberty.<br><br><b>[ <i>Rear Plaque</i> ]</b><br>The St. Andrew’s<br>Society of<br>Philadelphia, offers<br>this humble tribute<br>to the memory of an<br>illustrious brother.<br><br>When a grateful<br>posterity shall bid<br>the trophied memorial<br>rise to the martyrs,<br>who sealed with their<br>blood the Charter of<br>an Empire’s Liberties,<br>there shall not be<br>wanting a monument<br>to him, whom<br>Washington mourned,<br>as, &#8220;The worthy and<br>brave Mercer.&#8221;</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=40967"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.004145" lon="-75.187874">
+    <name><![CDATA[Laurel Hill Cemetery]]></name>
+    <cmt><![CDATA[On Ridge Avenue, Philadelphia, (On the left when traveling north)]]></cmt>
+    <desc><![CDATA[<center>has been designated a<br><b>National Historic Landmark</b><br><br>This site possesses national significance<br>in commemorating the history of the<br>United States of America<br><br>This cemetery was designed in 1836 by John Notman and is one of the finest examples of a rural burial ground which illustrates the evolution of American landscape architecture.<br><br>1998<br>National Park Service<br>United States Department of the Interior</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=40970"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.004225" lon="-75.190357">
+    <name><![CDATA[Charles Thomson]]></name>
+    <cmt><![CDATA[Near Ridge Avenue, Philadelphia, (On the left when traveling north)]]></cmt>
+    <desc><![CDATA[<center>First and only Secretary to the<br>Continental and Confederation<br>Congresses (1774 &#8211; 1789)<br><br>A farmer and Biblical scholar<br>in retirement at his estate<br>called Harriton in Bryn Mawr.</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=40971"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.997893" lon="-75.188877">
+    <name><![CDATA[Benj. H. Hodgson]]></name>
+    <cmt><![CDATA[Near Ridge Avenue, Philadelphia, (On the left when traveling north)]]></cmt>
+    <desc><![CDATA[<center>Son of<br>J. B. & M. A. Hodgson<br>Killed at the Battle of Little Big Horn<br>Custer Massacre<br>June 25, 1876<br>in the 28th year of his age<br><br>
+<b>[ <i>Left of Monument</i> ]</b><br>U. S.<br>Military Academy<br>West Point<br>Class 1870<br><br><b>[ <i>Right of Monument</i> ]</b><br>He the prize hath won<br>Earth’s conflict o’er, its warfare done,<br>He entered fame’s bright portal!<br>And o’er the ford &#8211; beyond the strife,<br>Above the stream of earthly life,<br>He’s gained the life immortal!</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=40982"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.004741" lon="-75.189905">
+    <name><![CDATA[Thomas McKean]]></name>
+    <cmt><![CDATA[Near Ridge Avenue, Philadelphia, (On the left when traveling north)]]></cmt>
+    <desc><![CDATA[<center>Signer of the Declaration<br>of Independence<br>Placed by<br>Descendants of the Signers of the<br>Declaration of Independence, Inc.<br><br><b>[ <i>Grave Stone Inscription</i> ]</b><br>McKean Family Vault<br>Beneath<br>this marble<br>are<br>the remains<br>of<br><b>Thomas McKean</b><br>One of the Signers<br>of the<br>Declaration of Independence,<br>President of Congress in 1781,<br>Chief Justice<br>and<br>Governor<br>of the<br>State of Pennsylvania.<br>Born   March 19, 1734.<br>Died   June 24, 1817.<br>and the descendants of his,<br>family.</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=41052"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.000395" lon="-75.190376">
+    <name><![CDATA[Capt. Henry J. Biddle]]></name>
+    <cmt><![CDATA[Near Ridge Avenue, Philadelphia, (On the left when traveling north)]]></cmt>
+    <desc><![CDATA[<center>Capt. Henry J. Biddle<br>Assistant Adjutant General<br>Pennsylvania Reserves<br><br>Born   May 16, 1817<br>Mortally wounded in the<br>Battle of New Market Cross Roads<br>June 30,<br>Died in Richmond, Va.<br>July 20, 1862<br><br><b>[ <i>Lt. Jonathan Biddle Marker</i> ]</b><br>In memory of 2nd Lieut. Jonathan<br>Williams Biddle, U.S.A. 7th Regt. of<br>Cavalry. Eldest son of<br>Henry J. & Mary D. Biddle.<br>Born August 1st, 1855<br><br>Killed in action<br>near Bear Paw Mountain,<br>Montana.<br>in the engagement with the<br>Nez Perces Indians, Sept. 30, 1877</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=41064"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.974819" lon="-75.195696">
+    <name><![CDATA[The Philadelphia Zoo]]></name>
+    <cmt><![CDATA[On Zoological Street, Philadelphia, (On the right when traveling north)]]></cmt>
+    <desc><![CDATA[<center> &#8220;America’s First Zoo.&#8221;<br> Chartered 1859 as the Zoological Society of Philadelphia. A wildlife refuge and a zoological garden, the zoo has long been committed to fulfilling its public mission: conservation, research, education, recreation.</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=60182"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.972742" lon="-75.195644">
+    <name><![CDATA[The Solitude]]></name>
+    <cmt><![CDATA[Near N 34th Street (U.S. 13) , Philadelphia, (On the right when traveling south)]]></cmt>
+    <desc><![CDATA[<center>Designed and built in 1784 as a riverside villa by John Penn, Jr., it served as a model for country houses of the Federal period (c. 1775 &#8211; 1830). Administered by the Philadelphia Zoo since 1874, the original Adam Style features, including elegant plaster ceilings, are preserved.</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=60183"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.990806" lon="-75.304952">
+    <name><![CDATA[Old Haverford Friends Meeting]]></name>
+    <cmt><![CDATA[On , Havertown, (On the right when traveling east)]]></cmt>
+    <desc><![CDATA[<br>This site has been a center for Friends’ activities since 1684. The older section of the current structure, since remodeled, was built in 1700 as an addition to the original log meetinghouse where <b>William Penn</b> worshiped in the eleventh month 1699.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=66654"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.008919" lon="-75.253156">
+    <name><![CDATA[Early Tavern]]></name>
+    <cmt><![CDATA[On Montgomery Avenue, Merion Station, (On the right when traveling west)]]></cmt>
+    <desc><![CDATA[<br>Opened in 1704, this tavern was known in Colonial times as the William Penn Inn, the Tunis Ordinary and Streeper’s Tavern. Familiar to Franklin and Washington, the inn was renamed, shortly after the Revolution, in honor of Gen. Wayne, who had lodged here.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=68614"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.008578" lon="-75.252452">
+    <name><![CDATA[John Dickinson]]></name>
+    <cmt><![CDATA[On Montgomery Avenue, Merion Station, (On the right when traveling west)]]></cmt>
+    <desc><![CDATA[Statesman, author. In influential writings, 1765-74, argued against British policies. Later, as a member, Continental Congress, 1774-76, favored conciliation and opposed the Declaration of Independence; nonetheless, served the patriot cause as colonel, 1st Philadelphia Battalion. President, Pa. Supreme Executive Council, 1782-85. Delegate, U.S. Constitutional Convention, 1787; a strong supporter of the Constitution. Deeded land to Merion Meeting, 1801-04.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=68628"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.009599" lon="-75.255119">
+    <name><![CDATA[Merion Friends Meeting]]></name>
+    <cmt><![CDATA[On Meeting House Lane, Merion Station, (On the right when traveling west)]]></cmt>
+    <desc><![CDATA[<br>Continuously used since its erection in 1695 by Quakers, this Meeting House is thought to have been visited by William Penn. Welsh carpenters are believed responsible for its highly unusual cruciform architecture.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=68646"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.009549" lon="-75.254429">
+    <name><![CDATA[Merion Friends Meeting House]]></name>
+    <cmt><![CDATA[Near Meeting House Lane, Merion Station, ]]></cmt>
+    <desc><![CDATA[<br><center><b>Merion Friends Meeting House</b><br>
+Has been designated a<br>
+<b>National Historic Landmark</b><br><br>
+
+This site possess national significance in commemorating the history of the<br> United States of America<br>
+
+This Meeting was established by the Merioneth Welsh community who settled this area in 1682. Completed in 1714, it is important for its association with the earliest settlement of Welsh speaking people in the new world.<br>
+<b>1997</b><br>
+National Park Service<br>
+United States Department of the Interior</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=68649"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.00916" lon="-75.253714">
+    <name><![CDATA[Philadelphia and Columbia Railway]]></name>
+    <cmt><![CDATA[On Montgomery Avenue, Merion Station, (On the right when traveling west)]]></cmt>
+    <desc><![CDATA[<br><b>One of Americas Earliest Railroads</b>,<br>
+it was first powered by horses, later by steam. The right-of-way was on the south-side of Montgomery Avenue across from Merion Friends Meetinghouse.<br><br>
+
+This railroad was a major route for escaping slaves crossing the Susquehanna River from Maryland. As the freight cars passed this Meetinghouse, several Quaker families, who operated Safe Houses, placed food and water in the cars for escaping slaves.<br>
+<b>These are the original &#8220;sleeper&#8221; stones<br> which were used as track supports.</b>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=68652"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.009744" lon="-75.255373">
+    <name><![CDATA[Washington's Army Encampment]]></name>
+    <cmt><![CDATA[On Montgomery Avenue, Merion Station, (On the right when traveling west)]]></cmt>
+    <desc><![CDATA[<br><b><center>On this and adjacent ground<br> Washington's Army encamped<br> September 14, 1777.</b><br><br>
+
+Erected by Merion Chapter,<br> Daughters of the American Revolution<br> September 14, 1896</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=68748"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.029412" lon="-75.191031">
+    <name><![CDATA[Battle of Germantown]]></name>
+    <cmt><![CDATA[Near Rittenhousetown Lane, Philadelphia, (On the left when traveling north)]]></cmt>
+    <desc><![CDATA[<br>To retake recently occupied Philadelphia, American Commander-in-Chief, General George Washington, ordered a surprise four-prong attack on the British forces encamped in Germantown. Assigned the defense of the Wissahickon Valley, German mercenary troops, collectively called Hessians, erected two miles of fortifications. Washington’s orders for the Wissahickon attack were to &#8220;get upon the Enemy’s left and Rear&#8221; while &#8220;every Officer and Soldier to have a piece of White paper in their Hatt&#8221; for identification. According to General Armstrong, for three hours the two combatant forces continually &#8220;cannonaded from the heights on each side of the Wissihickon, whilst the Riflemen on opposite sides acted on lower ground&#8221; until the American troops retreated in an orderly fashion.<br><br><b>The American assault within the Wissahickon consisted of primarily Pennsylvania Militia commanded by their State General John Armstrong. He reported, &#8220;<i>I thought we had a Victory, but to my great disappointment, soon found our army were gone an hour or two before, & we the last on the ground</i>.&#8221;</b>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=69051"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.029213" lon="-75.190169">
+    <name><![CDATA[Rittenhouse Town]]></name>
+    <cmt><![CDATA[On Lincoln Drive, Philadelphia, (On the right when traveling south)]]></cmt>
+    <desc><![CDATA[<br>William Rittenhouse, first Mennonite minister in America, erected here in 1690 the colonies’ first paper mill. Successive generations of Rittenhouses built additional mills, establishing this region as the center of American papermaking. By the 1850s this village had over 40 buildings, and seven early buildings survive from this once prosperous industrial community. Scientist David Rittenhouse was born here in 1732.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=69054"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.029905" lon="-75.189533">
+    <name><![CDATA[Rittenhousetown Historic District]]></name>
+    <cmt><![CDATA[Near Rittenhousetown Lane, Philadelphia, (On the left when traveling north)]]></cmt>
+    <desc><![CDATA[<center> Rittenhousetown<br>Historic District<br>has been designated a<br><b>National Historic Landmark</b><br><br>This district possesses national significance<br>in commemorating the history of the<br>United States of America<br><br>1992<br><br>National Park Service<br>United States Department of the Interior</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=69086"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.029374" lon="-75.18975">
+    <name><![CDATA[David Rittenhouse]]></name>
+    <cmt><![CDATA[Near Lincoln Drive, Philadelphia, (On the right when traveling south)]]></cmt>
+    <desc><![CDATA[<center>The eminent patriot, scientist and first director of the United States Mint was born at this site. This sundial commemorates his triumphs in the fields of astronomy and horology.<br><br>
+
+Presented to the Friends of<br>Historic RittenhouseTown by the National<br>Association of Watch and Clock Collectors<br>in memory of our mutual member<br>Dr. James W. Gibbs.<br>April 1991</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=69088"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.029385" lon="-75.189691">
+    <name><![CDATA[Rittenhouse Homestead]]></name>
+    <cmt><![CDATA[Near Lincoln Drive, Philadelphia, (On the right when traveling south)]]></cmt>
+    <desc><![CDATA[<center>Historic Rittenhousetown<br>Germantown, Philadelphia, Pa.<br>National Historic Landmark<br>Site of America’s first paper mill 1690<br>Penn’s Grant Chapter Pennsylvania Society<br>National Society Colonial Dames   XVIIC<br><br>21 May 1995</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=69090"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.029386" lon="-75.189652">
+    <name><![CDATA[Colonial Herb Garden]]></name>
+    <cmt><![CDATA[On Lincoln Drive, Philadelphia, (On the right when traveling south)]]></cmt>
+    <desc><![CDATA[<br>Such plantings were common in 17th- & 18th- century America. Herbs were primarily used in cooking and for medical purposes.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=69093"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.029501" lon="-75.190892">
+    <name><![CDATA[The Jacob Rittenhouse Home at RittenhouseTown]]></name>
+    <cmt><![CDATA[On Rittenhousetown Lane, Philadelphia, (On the right when traveling north)]]></cmt>
+    <desc><![CDATA[<br>An integral part of the original Rittenhouse Town landscape, the circa 1811 Jacob Rittenhouse Home is the largest and most imposing of all surviving structures and occupies a central location along the village road. It is a house that paper making built and as such is important to the interpretation of the village as the site of British North America’s first paper mill. Constructed at the end of the era of water driven paper mills, the home’s transitional architectural style incorporating vernacular German elements with Federal and Revival styles, echoes the moment of transition from water to steam.<br><br><b>Today the Jacob Rittenhouse Home is the focus of a major fundraising effort. Our goal is to restore the building in keeping with its 19th century origins and adaptively reuse it for income and educational space.</b>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=69095"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.027747" lon="-75.19293">
+    <name><![CDATA[Forbidden Drive]]></name>
+    <cmt><![CDATA[On Forbidden Drive, Philadelphia, (On the right when traveling west)]]></cmt>
+    <desc><![CDATA[<center>Welcome to Wissahickon Valley Park and<br><b>Forbidden Drive</b></center>Many rough mill roads once ran through this valley. But as traffic increased, people needed a better road. In the early 1850s, work began on a turnpike to ease travel between the mills and the city.<br><br>In 1869 the turnpike became part of Fairmount Park. It became Upper Wissahickon Drive, free to all who came to enjoy the valley’s beauty.<br><br>With the coming of automobiles came years of debate: should the drive be a quiet park trail or busy road? In 1899 the park commission banned automobiles along the drive. But for nearly the next 30 years it received proposals to re-open the drive. The commission voted against them all and this stretch of road has been called &#8220;Forbidden Drive&#8221; ever since.<br><br><b> &#8220; . . . <i>Now the Wissahiccon is of so remarkable a loveliness that, were it flowing in England, it would be the theme of every bard, and the common topic of every tongue</i> . . . . &#8221;<br> &#8220;Morning on the Wissahiccon&#8221;<br>Edgar Allan Poe</b><br><br>In 1964 this park became one of the first seven places to be honored as a National Natural Landmark.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=69097"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.027594" lon="-75.192709">
+    <name><![CDATA[Ten Box Shelter]]></name>
+    <cmt><![CDATA[On Lincoln Drive, Philadelphia, (On the right when traveling south)]]></cmt>
+    <desc><![CDATA[<br>A telephone line used by park guards once ran along Forbidden Drive. The line had ten locked phone boxes, the tenth one here. The line is gone, but the name &#8220;Ten Box&#8221; lives on.<br><br>Built in 1940 by the Works Progress Administration (WPA), Ten Box served as a guard station and provided visitors with restrooms. The storage room once hosted a bicycle concession.<br><br>In the 1990s, the Friends of the Wissahickon restored Ten Box and other WPA buildings in the park.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=69098"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.031328" lon="-75.188674">
+    <name><![CDATA[Dr. Mary Davis Ridgway]]></name>
+    <cmt><![CDATA[On Wissahickon Avenue, Philadelphia, (On the right when traveling south)]]></cmt>
+    <desc><![CDATA[A leader in the women's rights movement and a homeopathic physician and surgeon. She was founder of Providence General Hospital (chartered 1913), the principal officers of which were women. From 1914 to 1917 it served the community from nearby Abraham Rittenhouse Home. Political pressure then forced the hospital to move from this site, and it closed shortly after Dr. Ridgway's death.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=71356"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.95651" lon="-75.22135">
+    <name><![CDATA[Paul Robeson]]></name>
+    <cmt><![CDATA[On Walnut Street, Philadelphia, ]]></cmt>
+    <desc><![CDATA[A Rutgers athlete and Columbia law graduate, Robeson won renown as a singer and actor. He was a noted interpreter of Negro spirituals. His career suffered because of his political activism, and he lived his last years here in retirement.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=71383"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.996716" lon="-75.303227">
+    <name><![CDATA[Joshua Humphrey]]></name>
+    <cmt><![CDATA[On Haverford Avenue (SR 1001), Haverford, ]]></cmt>
+    <desc><![CDATA[Designer of the frigate Constitution, "Old Ironsides," lived 1803-38 in the Pont Reading House, which stands opposite. The present house was built at dates 1683 to 1813.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=81492"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.962285" lon="-75.273915">
+    <name><![CDATA[Abraham L. Pennock]]></name>
+    <cmt><![CDATA[On Maple Avenue, Upper Darby, ]]></cmt>
+    <desc><![CDATA[This prominent abolitionist and patron of the arts resided here at Hoodland until his death in 1868. The home had been built in 1823 by his father-in-law, John Sellers II. A leader in the Pennsylvania Anti-Slavery Society, Abraham Pennock also was an advocate of woman suffrage and active in the temperance movement. Notable visitors to his home included John Greenleaf Whittier and James Russell Lowell]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=81494"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.95703667" lon="-75.26175667">
+    <name><![CDATA[Sellers Hall]]></name>
+    <cmt><![CDATA[On Walnut Street, Upper Darby, ]]></cmt>
+    <desc><![CDATA[First permanent home in Upper Darby, built about 1684 by Samuel Sellers who occupied it with his bride, Anna Gibbons. Their son, Samuel Sellers, Jr., was the first of many family members active in mechanical and scientific pursuits. Birthplace of John Sellers, a founder of the American Philosophical Society. In 1769 he served on a select committee that observed the planet Venus in its passage across the sun.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=81496"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.04433" lon="-75.19628">
+    <name><![CDATA[Sadie T.M. Alexander]]></name>
+    <cmt><![CDATA[On Westview Street, Philadelphia, ]]></cmt>
+    <desc><![CDATA[The first Black woman to be admitted to the bar in Pennsylvania, she lived here in her later years. Active in the Urban League, she was appointed, 1946, to the President's Committee on Civil Rights]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=82042"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.03788" lon="-75.19197">
+    <name><![CDATA[Connie Mack]]></name>
+    <cmt><![CDATA[On Cliveden Street, Philadelphia, ]]></cmt>
+    <desc><![CDATA["Grand Old Man of Baseball." He started as a catcher in New England, 1883. As manager of the Philadelphia Athletics, 1901-1950 -- a record fifty years -- he led the team to nine American League pennants, 1902-31, & five World Series championships, 1910-30. In baseball's first All-Star Game, he managed the victorious American League team, 1933. Elected to the Baseball Hall of Fame, 1937. He lived on Cliveden Street here.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=82044"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.0315" lon="-75.2003">
+    <name><![CDATA[Walnut Lane Bridge]]></name>
+    <cmt><![CDATA[On Walnut Lane, Philadelphia, ]]></cmt>
+    <desc><![CDATA[When completed in 1908, it was significant for its early use of concrete in bridge construction and as the world’s largest concrete arch bridge. Reformers of the era praised its utility and design. Connecting Germantown and Roxborough, it reduced the travel time between the two neighborhoods from a half-day to minutes, and promoted business and social interaction. This engineering marvel remains a vital transportation artery for Philadelphia.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=82046"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.0329" lon="-75.1992">
+    <name><![CDATA[Walnut Lane Bridge]]></name>
+    <cmt><![CDATA[On Walnut Lane, Philadelphia, ]]></cmt>
+    <desc><![CDATA[When completed in 1908, it was significant for its early use of concrete in bridge construction and as the world’s largest concrete arch bridge. Reformers of the era praised its utility and design. Connecting Germantown and Roxborough, it reduced the travel time between the two neighborhoods from a half-day to minutes, and promoted business and social interaction. This engineering marvel remains a vital transportation artery for Philadelphia.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=82047"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.01777" lon="-75.1891334">
+    <name><![CDATA[The Kelly Family]]></name>
+    <cmt><![CDATA[On Henry Avenue, Philadelphia, ]]></cmt>
+    <desc><![CDATA[This famous family lived in the home built here by John B. Kelly. A successful businessman active in city politics. Jack was a 3-time Olympic gold medal winner in the 1920s for rowing. Son John Jr. ("Kell") won the Diamond Scull at the 1947 British Henley Regatta and a bronze medal at the 1956 Olympics. Both father and son were named to the US Rowing and Olympic Halls of Fame. Daughter Grace was an Academy Award winning actress and Princess of Monaco.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=82051"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.02131" lon="-75.19162">
+    <name><![CDATA[Philadelphia College of Textiles and Science]]></name>
+    <cmt><![CDATA[On West School House Lane, Philadelphia, ]]></cmt>
+    <desc><![CDATA[Present campus of America's first textile college. Founded as the Philadelphia Textile School in 1884, it provided needed technical education to improve the manufacture and quality of domestic fabrics.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=82073"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.9956" lon="-75.21644">
+    <name><![CDATA[Philadelphia & Columbia Railroad]]></name>
+    <cmt><![CDATA[On Edgely Road, Philadelphia, ]]></cmt>
+    <desc><![CDATA[One of America's earliest railroads, authorized by the state legislature in 1828 and completed in 1834. Stretching 82 miles west to the Susquehanna, it was powered first by horses, later by steam. Part of a state-owned transportation system, including the Pennsylvania canal, built in response to intense competition from adjacent states. Acquired by the Pennsylvania Railroad Co. in 1857. Stone blocks placed for the original track have remained visible here.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=82074"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.97762" lon="-75.21356">
+    <name><![CDATA[African American Baseball in Philadelphia]]></name>
+    <cmt><![CDATA[On Belmont Avenue, Philadelphia, ]]></cmt>
+    <desc><![CDATA[For 85 years, starting with the Pythians and Excelsiors in 1867, Black ball clubs were a significant part of the Philadelphia scene. The Giants, formed 1902, were soon "World's Colored Champions." The Hilldales, Eastern Colored League Champions, 1923-25, won the Colored World Series, 1925. The Philadelphia Stars from 1933-52; they were in the Negro National League, 1933-48, & many of their games took place at this site.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=82076"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.98097" lon="-75.23933">
+    <name><![CDATA[Wilt Chamberlain (1936-1999)]]></name>
+    <cmt><![CDATA[On North 59th Street, Philadelphia, ]]></cmt>
+    <desc><![CDATA[A legendary basketball player, born in Philadelphia. Earned national attention at Overbrook High School and at the University of Kansas. Played professionally for the Harlem Globetrotters, Philadelphia Warriors and 76ers, and Los Angeles Lakers, 1958-73. A dominant center, he set records for both rebounding and scoring; scored 100 points in one game, 1962. Most Valuable Player four times. Member, Basketball Hall of Fame.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=82077"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.96644" lon="-75.20966">
+    <name><![CDATA[Laura Wheeler Waring]]></name>
+    <cmt><![CDATA[On North 43rd Street, Philadelphia, ]]></cmt>
+    <desc><![CDATA[A Black portraitist who lived here, Waring studied art in this city and in France. She headed the Art Department, Cheyney State College, and her works are part of the National Portrait Gallery and other major collections.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=82487"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.97267" lon="-75.21215">
+    <name><![CDATA[Stephen Smith]]></name>
+    <cmt><![CDATA[On Belmont Avenue, Philadelphia, ]]></cmt>
+    <desc><![CDATA[An abolitionist, Smith bought his freedom and was one of America's wealthiest Blacks with his coal, lumber, and real estate ventures. He was the major benefactor of the Stephen Smith Home for the Aged, located here.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=82488"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.97355" lon="-75.20954">
+    <name><![CDATA[First African Presbyterian Church]]></name>
+    <cmt><![CDATA[On Girard Avenue, Philadelphia, ]]></cmt>
+    <desc><![CDATA[Founded 1807 by John Gloucester, a former slave who was instrumental in establishing Presbyterianism among African-Americans. First edifice was dedicated 1811 at 7th & Bainbridge Streets. Church has been at this location since 1957.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=82489"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.96082" lon="-75.23076">
+    <name><![CDATA[Rev. Isaac Leeser]]></name>
+    <cmt><![CDATA[On Market Street, Philadelphia, ]]></cmt>
+    <desc><![CDATA[The eminent Jewish leader is buried here. Minister, Congregation Mikveh Israel, 1829-1850. Founder of the influential journal, The Occident, 1840; its publisher until 1868. A teacher and scholar, he translated the Hebrew Bible into English, 1853.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=82810"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.96513" lon="-75.22794">
+    <name><![CDATA[Crystal Bird Fauset]]></name>
+    <cmt><![CDATA[On Vine Street, Philadelphia, ]]></cmt>
+    <desc><![CDATA[The first Black woman elected to a state legislature in the U.S. Fauset, who lived here, won her seat in the Pennsylvania House of Representatives, 1938. She later served as a Civil Defense race relations advisor under Franklin D. Roosevelt.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=82811"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.02517" lon="-75.20085">
+    <name><![CDATA[Kelpius Community]]></name>
+    <cmt><![CDATA[On Hermit Lane, Philadelphia, ]]></cmt>
+    <desc><![CDATA[In 1694, German mystic Johannes Kelpius and his followers established a community near here in response to William Penn’s offer of religious freedom. Members of the &#8220;Hermits of the Wissahickon&#8221; produced poetry and music, practiced astronomy and botany, and made an early pipe organ, as they awaited the millenium. They welcomed all ethnic groups and Native Americans. The community gradually dissolved after Kelpius died in 1708.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=82946"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.99408" lon="-75.18932">
+    <name><![CDATA[William Lewis]]></name>
+    <cmt><![CDATA[On Strawberry Mansion Drive, Philadelphia, ]]></cmt>
+    <desc><![CDATA[Philadelphia judge, lawyer, and abolitionist, Lewis played an important role in the drafting and passage of the 1780 &#8220;Act for the Gradual Abolition of Slavery.&#8221; It was the first abolition legislation in America. Lewis maintained an anti-slavery stance throughout his life as a counselor for the Pa. Abolition Society, defending the rights of slaves freed under this Act. Historic Strawberry Mansion, built in 1789, was Lewis’s summer home]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=83380"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.9942" lon="-75.1904">
+    <name><![CDATA[Strawberry Mansion]]></name>
+    <cmt><![CDATA[On Strawberry Mansion Drive, Philadelphia, ]]></cmt>
+    <desc><![CDATA[Strawberry Mansion acquired its name in the mid-nineteenth century when it was a dairy and restaurant serving strawberries and cream. In its earlier days it had been property of Philadelphia judges. <p>
+In 1783 Judge William Lewis, a Quaker, purchased this wooded land near the falls of the Schuylkill River. Remodeling an earlier structure, he completed the central portion of this house by 1790. While Philadelphia was still the capital of the United States he entertained his good fiends President George Washington and Secretary of the Treasury Alexander Hamilton.<p>
+&#8220;Summerville&#8221;, Lewis’s new house, reflected the balanced simplicity of early Federal architecture. The central entrance hall leads from the front door to the back gardens as in many of the older Georgian houses. The interior details are more delicate than those in nearby Woodford and Mount Pleasant.<p> 
+Judge Joseph Hemphill bought Summerville in the 1820’s to enhance his social and political position. He added the flamboyant Greek revival wings to the house and entertained John C. Calhoun of South Carolina and the French Marquis de Lafayette. His son Coleman built a racetrack here, raised Dalmatian dogs, and grew strawberries from roots imported from Chile. When Hemphill invited Daniel Webster of Massachusetts to a political banquet to help unite northern and southern Democrats in support of Andrew Jackson, Webster simply toasted the strawberries and walked out the ballroom’s jib window.<p>
+Hemphill later bought a partnership in Philadelphia’s Tucker China Factory, one of the first American makers of true porcelain. Today rare examples of Tucker porcelain are on display in the library. <p>
+Strawberry Mansion became City property in 1868 and is the largest house in Fairmount Park. Furnished in a medley of styles popular during the mansion’s various ownerships, the house is maintained by the Committee of 1926 and the Fairmount Park Commission.
+(Inscription under the photo in the upper left) Empire and Regency furniture in library; Tucker porcelain in cabinet to left. Doorways lead to eighteenth century parlor.<p>
+(Inscription under the photo in the lower left) <br>William Lewis, portrait by Gilbert Stuart.<p>
+(Inscription under the photo in the lower right) <br>Empire bedroom<p>
+(Inscription under the photo in the upper right)<br> Daniel Webster]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=83382"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.01675" lon="-75.24291">
+    <name><![CDATA[James A. Bland]]></name>
+    <cmt><![CDATA[On Bryn Mawr Ave, Bala Cynwyd, ]]></cmt>
+    <desc><![CDATA[Buried in this cemetery is the famous minstrel, composer of "Carry Me Back to Old Virginny" and many other songs. Born on Long Island in 1854, he traveled widely but died in obscurity at Philadelphia in 1911.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=84839"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.02291" lon="-75.31346">
+    <name><![CDATA[The Baldwin School]]></name>
+    <cmt><![CDATA[On Montgomery Avenue, Bryn Mawr, ]]></cmt>
+    <desc><![CDATA[Originally designed as a summer resort hotel by noted architect Frank Furness, this is his last surviving building of its type. Opened in 1890 as the Bryn Mawr Hotel, it was built in a French Chateau style for the Pennsylvania Railroad. The Baldwin School, the preparatory school for girls founded in 1888, leased the building, 1896; became its owner, 1922. This structure replaced an earlier Bryn Mawr Hotel, built here for the PRR about 1871.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=84841"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.02405" lon="-75.31397">
+    <name><![CDATA[Bryn Mawr Summer School for Women Workers in Industry]]></name>
+    <cmt><![CDATA[On Morris Ave, Bryn Mawr, ]]></cmt>
+    <desc><![CDATA[A pioneering liberal arts school for working women was held here on the campus of Bryn Mawr College, 1921-1938. Led by Hilda Worthington Smith, it graduated over 1,700 students from diverse racial, ethnic and geographic backgrounds; some became community, labor union, and public leaders. The school served as a model for workers' and labor education programs at colleges and universities across the nation.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=84842"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.0282" lon="-75.31242">
+    <name><![CDATA[Woodrow Wilson]]></name>
+    <cmt><![CDATA[On New Gulph Rd, Bryn Mawr, ]]></cmt>
+    <desc><![CDATA[Educator, statesman, President. Here, at Bryn Mawr College, Wilson held his first teaching position. From 1885, when the college opened, until 1888, he taught history and politics in nearby Taylor Hall.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=84843"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.03328" lon="-75.31069">
+    <name><![CDATA[Harriton]]></name>
+    <cmt><![CDATA[On Old Gulph Rd (SR 3034), near Bryn Mawr, ]]></cmt>
+    <desc><![CDATA[Built 1704 by Rowland Ellis; named by Richard Harrison, the next owner. His son-in-law, Charles Thomson, Secretary of Continental Congress, lived here 1774 until his death in 1824.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=84865"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.969364" lon="-75.297729">
+    <name><![CDATA[The Llanerch Car Barn]]></name>
+    <cmt><![CDATA[On West Chester Pike (State Route 3) , Llanerch, (On the right when traveling west)]]></cmt>
+    <desc><![CDATA[<p>
+Inside the Llanerch Power Station, Wilbur Hall photographed workers waiting to shovel coal into the massive boilers powering the Hamilton Corliss steam engine [photo at top left]. Electricity generated here to run the trolleys also lighted many local homes and street lamps. In an ironic twist, the coal was delivered to the traction company by its rival, the Pennsylvania Railroad. Service to West Chester was provided until 1959. The buildings and water tower stood along West Chester Pike until 1972.<p>
+[Photo caption] A Bird's Eye View of Llanerch<p>
+This 1920's aerial photograph, taken by Victor Dallin, shows the Llanerch car barn, the site of Llanerch Crossing Park as well as homes in Llanerch. Can you find your house?<p>
+1. Llanerch Car Barn and Power Plant<br>
+2. Coal Yard<br>
+3. Pennsylvania Railroad Station<br>
+4. Toll House & Station<br>
+5. Llanerch Firehouse<br>
+6. Llanerch Presbyterian Church<br>
+7. St. Andrew's Methodist Church<br>
+8. Llanerch School<p>
+<i>Photo courtesy of the Hagley Museum and Library</i><p>
+[Bottom left photo caption reads]<br>
+Offices of the Philadelphia and West Chester Traction Company, Llanerch car barn, power station and water tower circa 1900. Current site of Kohl's Department Store.<br>
+<i>Photo from the Wilbur Hall collection.</i>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=102751"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.969423" lon="-75.297697">
+    <name><![CDATA[The Birth of Llanerch]]></name>
+    <cmt><![CDATA[On West Chester Pike (State Route 3) , Llanerch, (On the right when traveling west)]]></cmt>
+    <desc><![CDATA[<p>
+Comfortable and reliable rail transportation to and from Philadelphia encouraged the development and growth of suburban neighborhoods in Haverford Township. The large sign behind the trolley car instructs perspective buyers of homes in Llanerch to visit the trolley station for information. Homes on Llandaff and Tenby can be seen in the distance.<p>
+For a nickle, commuters traveled from Ardmore to 63rd Street in 22 minutes. The trolley ran along Darby Road stopping at Brookline, Oakmont, Merwood and Ardmore Junction on its way to Ardmore on the Main Line. The Ardmore Line operated until December 1966.<p>
+The neighborhood of Llanerch, on land originally granted to Welsh Quaker, Lewis David grew from the farms of Silas Bewley, Morgan Davis, Mary Albertson and Charles Taylor. Mary Albertson is credited with naming Llanerch for a location in Wales.<p>
+Many of Llanerch's beautiful homes were designed by the architectural firm of Kennedy, Hays and Kelsey. Both Robert G. Kennedy and Frank A. Hays maintained residences here. Mr. Hays planned the home of William C. Pritchett known as "Richland" across West Chester Pike where Gilmore and Olympic Roads are today. Llanerch was the first subdivision in the township to make use of deed restrictions, setbacks and minimum cost of the homes. By 1912 the community had two churches, an elementary school and a grocery store, now the Llanerch Fire House.<p>
+[Photo captions, from left to right, read]<br>
+Opening day of the West Chester Traction Company's Ardmore Line at Llanerch Junction on May 30, 1902.<p>
+1909 Map of Llanerch<p>
+Early 1900's postcard of Davis Road<p>
+Postcard of Llanerch grocery store, now the Llanerch firehouse.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=102754"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.969456" lon="-75.29778">
+    <name><![CDATA[The Battle of Llanerch Crossing]]></name>
+    <cmt><![CDATA[On West Chester Pike (State Route 3) , Llanerch, (On the right when traveling west)]]></cmt>
+    <desc><![CDATA[The rail lines that met and crossed at Llanerch Junction in the 19th century transformed fields into suburban neighborhoods. In the 20th century, the corner where West Chester Pike and Darby Road meet was a gas station and car dealership, before lying fallow as a vacant, weed-choked lot. In 2007, transformed by the hard work of community volunteers and township Public Works employees, Llanerch Crossing became a proud gateway to Haverford Township.<p>
+The history of transportation on West Chester Pike dates to the dusty, muddy stage coach days along the western extension of Market Street out of Philadelphia, known as the West Chester Road. The first improvement to this trail was the hemlock plank road of 1848. The wooden road, built by the Philadelphia and West Chester Turnpike Road Company, traveled from West Philadelphia to Newtown Square. Along the route penny-per-mile fees were collected at several toll houses. Fines also were imposed for avoiding the tollgate, speeding, vandalism or lying to the toll collector.<p>
+In 1859 the Turnpike Road Company created a franchise company known as the Delaware County Passenger Rail Road with horse-drawn cars running on rails, bringing passengers on Sunday excursions from Philadelphia to Castle Rock, past Newtown Square. It was those open-air carriages which captivated the young John Shimer of Castle Rock. Shimer dreamed of one day owning a railroad. By 1891 Shimer had become a major stockholder in the Philadelphia and West Chester Turnpike Road Company and by 1895 his trolley line was in operation.<p>
+Shimer's new company, The Philadelphia, Castle Rock and West Chester Railway, in partnership with The Delaware County Passenger Rail Road, would eventually grow to become the West Chester Traction Company. The mightiest obstacle for Shimer and his trolley line was the formidable Pennsylvania Railroad, also building a passenger line called the Philadelphia & Delaware County Passenger Railroad, which would cross at Llanerch.<p>
+Both rail companies were laying tracks to Newtown Square &#8212; Shimer along West Chester Pike and the PRR crossing West Chester Pike at Llanerch. This was a dangerous crossing, due to the blind nature of the angle of the Pennsy trains approaching the pike and the falling grade for trolleys traveling west. During July, 1895, in order to stop the trolley tracks, the PRR parked a locomotive in the direct path of the trolley rail line. The resulting Battle of Llanerch Crossing was fought in a labyrinth of legal contracts, injunctions, and appeals to the Pennsylvania Supreme Court and at the junction itself with threats, fists and curses. Eleven railroad employees were arrested but no one was seriously injured. By the end of the summer of 1895, Shimer was victorious and a year later the trolleys were running on electricity just as planned.<p>
+For a more detailed chronicle of these events, read The Red Arrow by Ronald DeGraw.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=102755"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.97727" lon="-75.32965">
+    <name><![CDATA[Lynnewood Park]]></name>
+    <cmt><![CDATA[On Robinson Avenue, Havertown, (In the median)]]></cmt>
+    <desc><![CDATA[<br>
+<center>In Honor of<br> 
+the Men and Women<br>
+ of<br>
+ <b>LYNNEWOOD PARK</b><br> 
+~<br>
+Who Served Their Country<br>
+In World War II</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=120857"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.99984444" lon="-75.19036111">
+    <name><![CDATA[Laurel Hill Cemetery: A Garden For The Dead]]></name>
+    <cmt><![CDATA[On Kelly Drive, Philadelphia, (On the left when traveling south)]]></cmt>
+    <desc><![CDATA[A grieving father, John Jay Smith went to visit the grave of his daughter in Center City. He could not find it in the over-crowded churchyard and became determined to create a rural cemetery. Founded in 1836, Laurel Hill Cemetery was designed to be different from the start. It was to be a place located outside of the city, with a beautiful landscape and no religious affiliation. Laurel Hill was to be a peaceful place for the dead to rest and for the living to enjoy.
+
+Laurel Hill's scenic site was established over 20 years before New York's Central Park. Picnics, horse-drawn carriage rides, walks and sightseers tours were popular activities during its early days. Today the 78 acre Cemetery is visited daily by historians, artists, researchers, dog-walkers, runners, cyclists, and sightseers.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=124902"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.98216729" lon="-75.19505703">
+    <name><![CDATA[Smith Memorial Playground & Playhouse]]></name>
+    <cmt><![CDATA[On Reservoir Drive, Philadelphia, (On the left when traveling west)]]></cmt>
+    <desc><![CDATA[Built with a gift from Richard and Sarah Smith &#8220;for the recreation of the young,&#8221; it opened in 1899 as a private park on public land, free and open to all. Created at the advent of the American Playground Movement, it is one of the first play spaces in the US.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=131816"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.99103602" lon="-75.24780171">
+    <name><![CDATA[Booth Maternity Center]]></name>
+    <cmt><![CDATA[On City Avenue (U.S. 1) , Philadelphia, (On the right when traveling north)]]></cmt>
+    <desc><![CDATA[Established in 1971, Booth revolutionized women’s health care by offering expectant mothers natural, family-centered childbirth options. It became a national model for its midwife training and for its promotion of midwife/doctor collaboration to improve care. The hospital pioneered the nationwide practice of permitting family members to support women during labor and delivery and advocated birth center accreditation. It closed in 1989.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=135810"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.95572459" lon="-75.24836203">
+    <name><![CDATA[The MOVE Bombing]]></name>
+    <cmt><![CDATA[On Cobbs Creek Parkway (South 63rd Street), Philadelphia, (On the right when traveling south)]]></cmt>
+    <desc><![CDATA[On May 13, 1985, at 6221 Osage Avenue, an armed conflict occurred between the Phila. Police Dept. and MOVE members. A Pa. State Police helicopter dropped a bomb on MOVE’s house. An uncontrolled fire killed eleven MOVE members, including five children, and destroyed 61 homes.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=135902"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="39.9668097" lon="-75.20842433">
+    <name><![CDATA[Muhammad's Temple of Islam #12]]></name>
+    <cmt><![CDATA[On Lancaster Avenue, Philadelphia, (On the right when traveling east)]]></cmt>
+    <desc><![CDATA[Pennsylvania’s first Nation of Islam place of worship. Former home of the African American Muslim community of Philadelphia during the 1950s and 1960s under the leadership of Elijah Muhammad. Malcolm X and Imam Wallace D. Muhammad were administrators and teachers here.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=135994"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.00431485" lon="-75.19036026">
+    <name><![CDATA[Elisha Kent Kane]]></name>
+    <cmt><![CDATA[Near Ridge Avenue, Philadelphia, (On the left when traveling north)]]></cmt>
+    <desc><![CDATA[Born in Philadelphia, Kane was a prominent explorer of the Arctic in the 1850s. His writings after his expeditions influenced scientific and popular opinion on the polar regions. He was first to chart a course that became the route that Robert Peary used to claim the North Pole in 1909. When he died, he was so revered that his body was sent on a two-week cortege across the country before being interred in its final resting place here.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=136000"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.00402039" lon="-75.18975995">
+    <name><![CDATA[Hector Tyndale]]></name>
+    <cmt><![CDATA[Near Ridge Avenue, Philadelphia, (On the left when traveling north)]]></cmt>
+    <desc><![CDATA[<center>Born March 24, 1821.<br>Died March 19, 1880.<br>&#8221;Give me light to see and<br>strength to do my duty.&#8221;<br>Major 28 Pennsylvania Volunteers.<br>June 28, 1861.<br>Lt. Col. 28 Pennsylvania Volunteers.<br>April 25, 1862.<br>Brigadier General U.S. Volunteers.<br>November 29, 1862.<br>&#8220;For resolute courage, conspicuous<br>gallantry, self-possession and<br>judgement at Antietam.&#8221;<br>Brevet Major General U.S. Volunteers.<br>March 13, 1865.<br>&#8220;For Gallant and Meritorious services<br>during the war.&#8221;</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=138647"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.03905833" lon="-75.27948889">
+    <name><![CDATA[Henry Harley Arnold]]></name>
+    <cmt><![CDATA[On Conshohocken State Road (State Route 23) , Gladwyne, (On the right when traveling south)]]></cmt>
+    <desc><![CDATA[<center>
+<b>Henry Harley Arnold</b><br>
+General of the Army<br><br>
+
+Commanding General<br>
+United States Air Force<br>
+World War II<br><br>
+
+Born June 25, 1886<br>
+on this site
+</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146336"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.03923333" lon="-75.27935833">
+    <name><![CDATA[Lest We Forget]]></name>
+    <cmt><![CDATA[On Conshohocken State Road (State Route 23) , Gladwyne, (On the right when traveling north)]]></cmt>
+    <desc><![CDATA[<center>
+<b>Lord God of Hosts be with us yet<br>
+Lest We Forget Lest We Forget</b><br><br>
+
+In honor<br>
+of the men and women<br>
+of Gladwyne<br>
+who served in the<br>
+Armed Forces<br>
+of our country
+</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146337"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.03800768" lon="-75.28028094">
+    <name><![CDATA[Gladwyne Historic District]]></name>
+    <cmt><![CDATA[On Youngs Ford Road, Gladwyne, (On the right when traveling south)]]></cmt>
+    <desc><![CDATA[Originally the Cross Roads Village of Merion Square. Settled by Welsh Millers who prospered along Mill Creek in the late 1700's. Many of the early 19th century buildings including the inn village shops and houses are still in use. Many fine examples of 19th century vernacular architecture are found in the village.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146338"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.03611594" lon="-75.26509167">
+    <name><![CDATA[Mill Creek: The Power of Water]]></name>
+    <cmt><![CDATA[On Mill Creek Road, near Gladwyne, (On the left when traveling north)]]></cmt>
+    <desc><![CDATA[<br>
+Mill Creek gets its name from the active mill industry that flourished here from the 1790s to the 1870s. The mills adapted to suit a changing market place. During the early 1800s, a growing mill industry produced paper, grain, guns, and powder. In the 1850s, cotton yarn became the predominant product. The mill industry declined during the 1890s. Large automated factories were built along railroad lines and the smaller scale mills could no longer compete. In 1893 Mill Creek had a disastrous flood. The dams along the creek were destroyed and never rebuilt.<br><br>
+
+<b><u><i>The Barker Mill</i></u></b><br>
+The existing industrial buildings along Mill Creek adjacent to the park boundaries are known as the Barker Mill. It is the longest-lived mill on the creek. The parcel of land on which it is located was part of the original patent granted by William Penn to Robert Jones to establish the Welsh Barony in 1682. It is believed that Benjamin Brooke built the first mill around 1794 either to produce powder or manufacture armaments. From 1808 to 1861 the Nippes family operated a mill to manufacture rifles. During the War of 1812, they supplied rifles to the United States Government. In 1881 the mill was sold to William Booth. The cornerstone on the existing building reads <b>"Wm Booth Roseglen Mill 1886."</b> It produced carpet and rug yarn. The name Barker comes from Thomas A. Barker who bought the mill in 1923. He and his sons carded and spun wool there until the 1950s. In the 1970s the building was renovated for more modern uses: light industrial, offices, and artisan studio space.<br><br>
+
+<b><i><u>The Ruins</b></i></u><br>
+Visible along the floodplain of Mill Creek are large stone ruins that once housed mill workers. The mills themselves generally employed about 6-10 workers. The census of 1850 indicates predominant populations of laborers, mill workers, and local craftsmen in the Mill Creek area. Workers were housed on the property in tenements that could accommodate several families. There are two sets of major ruins along the floodplain of the park. This ruin was the three-story stone mill workers tenement pictured at left. Samuel Lehman Smith, a mill owner, constructed it between 1837 and 1840. Nearby is a root cellar.<br><br>
+
+The other ruins, downstream closer to the Barker Mill, consisted of two buildings. One was a single unit that housed one family or several workers. The other was a double unit that housed two families. Both contained crafted stonework, heavy fireplace lintels, and attached kitchens. They date from the first quarter of the 19th century.<br><br>
+
+<b>
+The stone ruins are being stabilized through the efforts of the Township's Board of Commissioners. For your own safety and for the preservation of these cultural resources for future generations, please do not climb on them.
+</b>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146339"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.02312778" lon="-75.22008611">
+    <name><![CDATA[Manayunk Canal Locks 69 & 70]]></name>
+    <cmt><![CDATA[On Lock Street, Philadelphia, (On the left when traveling south)]]></cmt>
+    <desc><![CDATA[<br><b>Manayunk Canal</b><br>
+The 1819 canal begins two miles upstream at Flat Rock Dam and ends here at Locks 69 and 70. It was part of a 108 mile system of canals, locks, dams, and slackwater pools built by the Schuylkill Navigation Company to transport goods and Schuylkill County anthracite coal. To move cargo, flat-bottomed boats were pulled by mule teams that walked a raised towpath located on the canal's river side. The canal also also provided water power that led to Manayunk's development as a nineteenth-century textile mill center.<br><br>
+
+<b>Locks 69 & 70</b><br>
+These locks were rebuilt following their initial, low-quality construction. Boats entered the double lock and were dropped or raised over 24 feet. Once below the locks, mules were carried on boats and poled across the Schuylkill River to continue their journey. Later, a wooden mule towpath bridge was built, and subsequently replaced, by a bridge cantilevered from the railroad bridge.<br><br>
+
+<b>Decline of the Canal</b><br>
+The Schuylkill Navigation Company operated successfully, staving off its chief competitor, the Philadelphia and Reading Railroad Company, until 1870. With funds depleted by a devastating drought followed a catastrophic flood, its system was leased to the railroad. The construction of the iron truss bridge, the Venice Island rail spur, and the track over the original towpath reflect the canal's obsolescence. The present towpath was actually established in the 1970s.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146342"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.0232001" lon="-75.22025206">
+    <name><![CDATA[Manayunk Stoops: Heart and Home]]></name>
+    <cmt><![CDATA[On Main Street, Philadelphia, (On the right when traveling west)]]></cmt>
+    <desc><![CDATA[<br><b>Diane Pieri</b> <small><i>(1947 - )</i><br>
+Installed 2006</small><br><br>
+
+Nine mosaic "stoops" enhance and interpret the physical and natural environment of the Towpath: <i>The Lock Street Stoops, The Mill Stoop, The Children's Stoops (Fish, Hill,</i> and <i>Turtle Stoops), The Garden Stoop,</i> and <i>The Water Stoops.</i> The atwork includes imagery inspired by the native flora, fauna, and industrial heritage of the Manayunk area. The stoops are situated at five sites between Lock and Cocton Streets and are an interpretation of the front steps and entryways that mark the neighborhood's architecture and street life.<br><br>
+
+<b>Images Found on the Stoops</b><br><br>
+
+<small><b>Diamond Motif in Navajo Textiles</b><br>
+In the 1800's, the textile mills along the Manayunk Canal produced brightly-colored wool yarns. Referred to as "Germantown wool" or "Germantown yarn," these materials were used by Native American weavers to craft blankets and rugs.<br><br>
+
+<b>Hills of Manayunk and Canal Wildlife</b><br>
+Children in the community participated in the project by sharing stories, memories, and reflections of their experiences growing up near the Canal and in the Manayunk neighborhood.<br><br>
+
+<b>Reflections of the Canal Landscape</b><br>
+In 1912, the last commercial boat traversed the Canal. Today, after major restoration efforts, the Manayunk Canal Towpath is part of the recreational Schuylkill River Trail that extends from Center City to Valley Forge and beyond.<br><br>
+
+<b>Stylized Mill Gear</b><br>
+In the nineteenth century, historic and industrial Manayunk was an active mill town. Cotton, paper, and wool mills prospered and manufactured a wide variety of goods. The Manayunk Canal was a major source of transportation for the mills delivering their goods to locations all over the world.</small>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146345"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.02370833" lon="-75.22152778">
+    <name><![CDATA[Sevill Schofield's Economy Mills]]></name>
+    <cmt><![CDATA[On Schuylkill River Trail, Philadelphia, (On the right when traveling west)]]></cmt>
+    <desc><![CDATA[<br><b>First, McFadden's Mill</b><br>
+In 1845, the Schofield family emigrated from England directly to Manayunk to work in the textile industry. After considerable success, Sevill Schofield left his father's cotton mill in 1857 to operate a new family endeavor: spinning carpet yarn in the McFadden Mill near the canal's lower locks.<br><br>
+
+<b>Then the Economy Mills</b><br>
+Although growth was steady, Sevill Schofield's Economy Mills business was further boosted by lucrative contracts to weave Union Army blankets for the Civil War. They were part of a "canyon" of four- and five-story mills that lined the canal from Lock Street north to Rector Street and covered Venice Island to the area of the Performing Arts Center. By 1885, the mill complex employed 850 men, women, boys, and girls who spun wool and cotton yarn, and wove cloth. Sevill Schofield's Economy Mills was one of the largest textile enterprises in Philadelphia.<br><br>
+
+<b>Later, Imperial Woolen</b><br>
+The Economy Mills expanded and thrived until the 1890s, when an economic slump caught Schofield by surprise. Thereafter, his brother-in-law, James Dobson, operated the mills as the Imperial Woolen Mills. They weathered the 1930s Great Depression but closed shortly after, leaving hundreds of workers without jobs. The buildings occupied by Richard Apex Inc., manufacturer of cleaners and lubricants for the metal industry, were purchased in 1957. The vacant buildings burned and were razed in the 1970s.<br><br>
+
+<i>[Caption:]</i><br>
+<small>View downstream to Lock Street in 1971. Schofield's Economy Mill, later the Imperial Woolen Company, is on the right side of the Manayunk Canal. The bridges connected business offices on Main Street to their respective mill. Only one bridge remains today.</small>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146346"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.02394167" lon="-75.22265556">
+    <name><![CDATA[Venice Island]]></name>
+    <cmt><![CDATA[Near Cotton Street, Philadelphia, (On the left when traveling south)]]></cmt>
+    <desc><![CDATA[Venice Island is the legacy of 19th century industrial urbanization. In 1819 a three mile flyer of schist was sliced away from Manayunk by a narrow canal that supplied textile mills on the Island. Today this site's location led the Philadelphia Water Department (PWD) to install a subsurface combined Sewer Overflow Tank. This tank holds nearly 4 million gallons of a mixture of sewage and storm water during rain events preventing untreated wastewater flowing into the Schuylkill River.<br><br>
+
+To enable the use of the island for this essential river protection project, PWD committed to a full scale reconstruction of the Venice Island's recreation facilities. PWD worked with its sister city agencies and the neighborhood in the master planning process. This site uses the best in sustainable storm water management, ecological design and restoration to provide a much-needed public place in the heart of Manayunk that addresses multiple needs - recreation, environmental protection, commerce and open space.<br><br>
+
+The revitalized space reflects the Island's industrial heritage, local building techniques and the vibrant natural history along the Schuylkill River, all the while meeting the rigorous challenges of creating a safe city park in the floodway. This park resides at the intersection of nature and city, striving to bring both closer.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146347"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.02494167" lon="-75.22319167">
+    <name><![CDATA[Lower Venice Island Paper Mills]]></name>
+    <cmt><![CDATA[On Schuylkill River Trail, Philadelphia, (On the left when traveling west)]]></cmt>
+    <desc><![CDATA[<br><b>Lower Venice Island Papermaking</b><br>
+Around 1828, the McDowell Paper Mill began production of the lower canal section. Records are scant for McDowell's business. In the 1840-50s, Joseph McDowell produced paper in his four-story mill and leased space (a common practice at the time) to tenants who produced paper or spun cotton. In 1864, the property was sold to William H. Harding, owner and publisher of the <i>Philadelphia Inquirer,</i> to make paper for his various publications employing a relatively new process of using straw and wood, rather than rags, for the pulp.<br><br>
+
+Connelly Paper, owners of the property from the 1960s to the late 1990s, produced two-ton craft paper rolls from recycled corrugated boxes that were transported across the river to its large Bala Cynwyd box factory. Although the original McDowell Mill stood along the canal until its demolition in 2013, the Paper Works on the upper canal section is still manufacturing paper.<br><br>
+
+<i>[Captions:]</i><br>
+<small>
+Drawing of Schuylkill Navigation's property sale to Harding to expand his paper mill business.<br><br>
+
+With the advent of steam power and decline of water power, many of Manayunk's mills moved uphill from the Schuylkill River.
+</small>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146349"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.02618056" lon="-75.22564722">
+    <name><![CDATA[Welcome to Manayunk]]></name>
+    <cmt><![CDATA[On Main Street, Philadelphia, (On the left when traveling west)]]></cmt>
+    <desc><![CDATA[<br><b>Discovery of Manayunk</b><br>
+The village of Manayunk emerged from the quiet banks of the Schuylkill River, seven miles northwest of the port of Philadelphia, to produce textiles and other goods during the Industrial Revolution. By 1828, following completion of the Schuylkill Navigation Company's Flat Rock Dam and canal at Manayunk, ten mills crowded Venice Island to take advantage of the dam's water power. Five of the mills produced textiles and the others ground drugs and flour, rolled iron, cut nails, sawed wood, or made hats.<br><br>
+
+<b>Miles of Mills</b><br>
+With the advent of steam power, the need for the canal's power declined as mills expanded into Manayunk's hills. After the Civil War, the village teemed with four- and five-story textile and paper mills. Many women, children, and men worked long hours and suffered horrific working conditions that later improved through the creation of child labor laws and the use of labor strikes.<br><br>
+
+Manayunk's mills continued to be significant in America's textile production until their closure brought on by the 1930s Great Depression. Buildings flanking the canal largely disappeared by 1970. Nevertheless, some of the remaining mills continue the village's industrial traditions and produce textiles, industrial lubricants, and paper.<br><br>
+
+<i>[Caption:]</i><br>
+<small>
+The "S" Bridge, shown in this early 1900s photograph, was named for its shape. Built to carry train traffic over the Schuylkill river into Manayunk, it was replaced by the concrete arch bridge shown below. Note the mill buildings along the river.
+</small>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146350"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.03091559" lon="-75.21791085">
+    <name><![CDATA[21st Ward Korean and Vietnam War Memorial]]></name>
+    <cmt><![CDATA[On Lyceum Avenue, Philadelphia, (On the left]]></cmt>
+    <desc><![CDATA[<center>
+In memory of<br>
+our sons and<br>
+neighbors of<br>
+the 21st Ward<br>
+who lost their<br>
+lives in Korea<br>
+and Vietnam</center><br>
+
+<center>Korea</center>
+<small>
+Edward M. Dzuria U.S.A.<br>
+Joseph J. Fairo U.S.A.<br>
+Charles Gutgesell U.S.A.<br>
+Thomas L. Palmer U.S.A.<br>
+Raymond J. Smolinski U.S.A.<br>
+Alexander Wade U.S.A.<Br>
+Louis Wesolowski U.S.N.<br>
+Siegfried Zimniuch U.S.A.<br>
+Ernest S. Santesse U.S.A.<br><br></small>
+
+<center>Viet Nam</center>
+<small>
+Bruce F. Anello U.S.A.<br>
+John M. Cole U.S.A.F.<br>
+Charles J. Esbensen U.S.M.C.<br>
+Matthew J. Higgins U.S.A.<br>
+Thomas P. Johnston U.S.M.C.<br>
+William R. McKelvey U.S.A.F.<br>
+Frederick C. Miller U.S.M.C.<br><br></small>
+
+<center>Viet Nam</center>
+<small>
+William S. Ogden U.S.A.<br>
+Francis J. Pennetti U.S.M.C.<br>
+Dillard E. Peterson U.S.M.C.<br>
+David A. Poley U.S.A.<br>
+Charles A. Rieger U.S.A.<br>
+Richard B. Sedgwick U.S.A.<br>
+Raymond J. Smith U.S.A.<br>
+Francis I. Alberts U.S.A.<br>
+Samuel A. Singer U.S.M.C.
+<br><br></small>
+
+<center>Viet Nam</center>
+<small>
+William J. Stainecker U.S.A.<br>
+Michael J. Stanley U.S.A.<br>
+Patrick J. Thiroway U.S.A.<br>
+F. Ronald Tomon U.S.M.C.<br>
+Charles S. J. Walsh U.S.M.C.<br>
+Richard J. Whitehouse U.S.A.<br>
+Frederick W. Kulicke III U.S.A.<br>
+John G. Schwartz U.S.A.F.
+</small>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146352"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.03089015" lon="-75.21793684">
+    <name><![CDATA[World War II]]></name>
+    <cmt><![CDATA[On Lyceum Avenue, Philadelphia, (On the right when traveling west)]]></cmt>
+    <desc><![CDATA[<center>
+Dedicated to all who<br>
+served their country in<br>
+<b>World War II</b></center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146354"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.03088234" lon="-75.21795016">
+    <name><![CDATA[World War I]]></name>
+    <cmt><![CDATA[On Lyceum Avenue, Philadelphia, (On the right when traveling west)]]></cmt>
+    <desc><![CDATA[<center>
+Dedicated to all who<br>
+served their country in<br>
+<b>World War I</b></center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146355"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.0367" lon="-75.22097778">
+    <name><![CDATA[21st Ward World War Memorial]]></name>
+    <cmt><![CDATA[On Ridge Avenue (County Route 3009) , Philadelphia, (On the left when traveling west)]]></cmt>
+    <desc><![CDATA[<center>
+To the memory<br>
+of the boys from the 21st Ward who<br>
+lost their lives in the World war 1914-'18<br><br>
+
+Korean<br>
+World War II<br>
+Vietnam</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146356"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.01548333" lon="-75.22774444">
+    <name><![CDATA[West Laurel Hill Cemetery]]></name>
+    <cmt><![CDATA[On Cynwyd Heritage Trail, Bala Cynwyd, (On the left when traveling south)]]></cmt>
+    <desc><![CDATA[Established in 1869 as a non-profit, non-denominational cemetery, West Laurel Hill has long been a landmark of the Philadelphia region. Visiting beautifully landscaped cemeteries was a popular activity for Victorians. Designed as a civic institutions for public use, rural cemeteries provided a place for the general public to enjoy refined outdoor recreation amidst art and sculpture previously available only to the wealthy. Today, West Laurel Hill encompasses 187 acres, including 10 miles of paved roadway winding through gently rolling hills.<br><br>
+
+It is also an arboretum and an outdoor sculpture garden rich in cultural and social history. The cemetery is listed on the National Register of Historic Places and remains an active cemetery and park. Many notable nineteenth, twentieth and twenty-first century luminaries are interred at West Hill Cemetery, such as: Herman Haupt, civil engineer and Brigadier General of the Union Army; Dr. John Thompson Dorrance, inventor of condensed soup who eventually became sole owner of the Campbell Soup Company; Anna Marie Jarvis, founder of Mother's Day; John B. Stetsen, hatmaker; and Constantine Papadakis, President of Drexel University from 1995-2009.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146359"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.01595556" lon="-75.22727222">
+    <name><![CDATA[Barmouth Train Station]]></name>
+    <cmt><![CDATA[On Cynwyd Heritage Trail, Bala Cynwyd, (On the left when traveling south)]]></cmt>
+    <desc><![CDATA[Barmouth Station was active from 1899 to 1986, at which point the Southeastern Pennsylvania Transportation Authority (SEPTA) decommissioned the tracks between Cynwyd and Ivy Ridge station in Manayunk. Unlike Bala and Cynwyd, which were also freight depots, Barmouth was solely a commuter station that also serviced funeral trains bearing caskets from Philadelphia to be laid to rest at either Laurel Hill Cemetery or Westminster Cemetery.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146360"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.0176786" lon="-75.22521523">
+    <name><![CDATA[Vine Creek]]></name>
+    <cmt><![CDATA[On Cynwyd Heritage Trail, Bala Cynwyd, ]]></cmt>
+    <desc><![CDATA[<br>
+The main sources of Vine Creek are around Lodges Lane and Bryn Mawr Avenue in Cynwyd (not shown on map), approximately one mile from this location.<br><br>
+
+Vine Creek generally ran parallel to the path of the railroad bed. Several creeks, including Vine Creek in Manayunk and West Manayunk, cut deep ravines into the landscape and emptied into the Schuylkill River. These creeks provided the power source for many textiles and paper mills. Vine Creek itself hosted four mills, including William Clegg's Cotton Mill, John Grindred Grist Mill, and Isaac Wetherill's Mill.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146362"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.01891389" lon="-75.22350278">
+    <name><![CDATA[West Laurel Hill Train Station]]></name>
+    <cmt><![CDATA[On Cynwyd Heritage Trail, Bala Cynwyd, (On the right when traveling east)]]></cmt>
+    <desc><![CDATA[Before the advent of parks, the only great swaths of green open space where the general public could visit and picnic were cemeteries. For this reason, the West Laurel Hill Station (1884-1899) was one of the most popular of the early stops along the line and generated much weekend traffic. For city-dwellers seeking a rural setting, the railroad reinforced this effect by ornately landscaping the grounds around the station platforms.<br><br>
+
+After passengers disembarked at the station platform, the trains would move another hundred feet down the rails to the freight platform, where caskets would be unloaded onto horse-drawn carriages. The brick-paved ramp carved into the hill that leads up to a side entrance of the cemetery still visible.<br><br>
+
+The West Laurel Hill Station was decommissioned and disassembled in 1899 to make way for the new station at Barmouth, which was better located to service both West Laurel Hill Cemetery and the newly-incorporated Westminster Cemetery.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146365"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.01985556" lon="-75.22313611">
+    <name><![CDATA[William Clegg's Cotton Mill]]></name>
+    <cmt><![CDATA[On Cynwyd Heritage Trail, Bala Cynwyd, (On the right when traveling north)]]></cmt>
+    <desc><![CDATA[<br>
+Clegg's Mill was located in Vine Creek's deep ravine to provide maximum water power. By 1851, three millponds were built to regulate the flow of the creek to turn the waterwheels that powered the mills. You are standing at the point on the map where Vine Creek and the rail line intersect.<br><br>
+
+Building 2 of the mill housed a cotton picking machine. Fabric was weaved and finished in Building 1. Building 4 was where fabric was dyed. The friable nature of cotton manufacturing made it difficult to keep the mill clean, heightening the danger of fire. In the case of Clegg's Mill, fire protection was provided by twelve iron, fire-proof buckets and two fire extinguishers. According to the 1888 Hexamer survey shown here, Clegg's Mill employed 36 hands &#8212; 8 men, 10 boys and 18 girls.<br><br>
+
+Sometime between 1913 and 1917 the Pennsylvania Railroad acquired and closed Clegg's Mill, filled in the ponds and virtually buried Vine Creek under tons of rubble.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146366"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.00725833" lon="-75.23213333">
+    <name><![CDATA[The Philadelphia & Columbia Railroad]]></name>
+    <cmt><![CDATA[On Conshohocken State Road (State Route 23) , Bala Cynwyd, (On the right when traveling north)]]></cmt>
+    <desc><![CDATA[<br>The Philadelphia & Columbia Railroad was one of America's first railways. By the late 1820s, Philadelphia, the second largest city in the nation, lacked access to western markets. New York had the Erie Canal and Baltimore would soon have the Baltimore & Ohio Railroad.<br><br>
+
+Philadelphia business interests induced the Commonwealth of Pennsylvania to fund the ambitious Main Line of Public Works, a railroad and canal system from Philadelphia to Pittsburgh. Travel between these two cities was reduced from three weeks by wagon to three and a half days by railroad and canal. The first portion of the Main Line was the railroad between Philadelphia and Columbia, a small community on the Susquehanna River. Initially contractors paid tolls to move horse-drawn trains over the railroad. The company soon evolved into a more conventional railroad that ran its own trains powered by steam locomotives.<br><br>
+
+One striking engineering feature of the Philadelphia & Columbia was the Belmont Plane, approximately two miles east of here in Fairmount Park. Steam-powered cables hauled railroad cars up the steep grade of Belmont Hill. Although a marvel of engineering, the Philadelphia & Columbia quickly found that the plane created a bottleneck.<br><br>
+
+As a pioneering railway, the Philadelphia & Columbia made use of early technology. It followed the example of the Baltimore & Ohio by using heavy, rectangular cut stone "sleeper" to anchor the iron rails. You can see a few examples of the stone blocks just to the right of this sign. The heavy stone ties kept the two parallel iron rails properly spaced. This literally kept the wheels of the early railroad cars on track. Over time the early railroads switched to wooden ties on a bed of gravel.<br><br>
+
+In 1835, the West Philadelphia Railroad was chartered to the bypass the slow moving plane. Due to financial difficulties, this route was not completed until 1850, at which time most of the original alignment of the Philadelphia & Columbia between Ardmore and Philadelphia was abandoned.<br><br>
+
+Philadelphians agitated for an all rail route to Pittsburgh and the first step in achieving this goal was the incorporation of the Pennsylvania Railroad in 1846 to operate a railway between Harrisburg and Pittsburgh. In 1857 the Pennsylvania Canal Commission sold the Philadelphia & Columbia Railroad to the Pennsylvania Railroad.<br><br>
+
+The Pennsylvania Railroad, headquartered in Philadelphia, would go on to become one of America's wealthiest and most important railroads from the late-nineteenth century until 1968.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146368"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.0075949" lon="-75.23272299">
+    <name><![CDATA[Bala Cynwyd World War I Memorial]]></name>
+    <cmt><![CDATA[On Conshohocken State Road (State Route 23) , Bala Cynwyd, (On the left when traveling north)]]></cmt>
+    <desc><![CDATA[<center>
+<b>Erected by the residents of Bala and Cynwyd</b><br>
+as a tribute to the men and women of this community who served our country in the World War</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146370"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.05428134" lon="-75.21812606">
+    <name><![CDATA[Park Information]]></name>
+    <cmt><![CDATA[On Forbidden Drive, Philadelphia, (On the right when traveling south)]]></cmt>
+    <desc><![CDATA[The Valley Green Inn has featured a warming shed for horses at this location since 1850. The Friends of the Wissahickon rebuilt the original in 1999 following extensive deterioration, and again in 2012 after a fire. This landmark is centrally located on Forbidden Drive, a 5.4-mile gravel road that parallels Wissahickon Creek and is the primary trail through the park.<br><br>
+
+<b>The Orange and White Trails can be accessed on the opposite side of the creek, immediately across the large stone bridge.</b>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146616"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.05425" lon="-75.21794167">
+    <name><![CDATA[Valley Green Inn]]></name>
+    <cmt><![CDATA[On Forbidden Drive, Philadelphia, (On the right when traveling north)]]></cmt>
+    <desc><![CDATA[In the mid-1800s, the valley was changing from an industrial center to a recreational area. A new turnpike gave people easy access to the valley's beauty. The Valley Green Hotel, built in 1850, gave them a place to eat, drink and rest.<br><br>
+
+The hotel hosted dances, sleigh parties and countless visitors. But time took its toll and the hotel went through several renovations.<br><br>
+
+The most significant took place in 1899 when the Colonial Dames restored the rundown building and added new elements like leaded glass windows. The building then became known as the Valley Green Inn.<br><br>
+
+Other inns have come and gone along the Wissahickon. Now only Valley Green, one of the most beloved places in the park, is still in operation.<Br><br>
+
+<b><i>The long, low building near the inn is a warming shed. Guests could keep their horses stabled here to protect them during bad weather. The Friends of Wissahickon restored the shed in 1999. Keeping true to the original, they used old-fashioned joinery with wooden pegs instead of nails.</i></b>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146617"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.05413333" lon="-75.217925">
+    <name><![CDATA[Wissahickon Valley]]></name>
+    <cmt><![CDATA[On Forbidden Drive, Philadelphia, (On the right when traveling north)]]></cmt>
+    <desc><![CDATA[<center>
+<b>Wissahickon Valley</b><br><br>
+
+has been designated a<br>
+<b>Registered Natural<br>
+History Landmark</b><br><br>
+
+under the provisions of the<br>
+Historic Sites Act of August 21, 1933<br>
+This site possesses exceptional value<br>
+in illustrating the natural<br>
+history of the United States<br><br>
+
+U.S. Department of the Interior<br>
+National Park Service<br><br>
+
+1964</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146620"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.01481111" lon="-75.22557778">
+    <name><![CDATA[Duffy's Cut 57]]></name>
+    <cmt><![CDATA[Near Belmont Avenue (County Route 3045) , Bala Cynwyd, (On the right when traveling east)]]></cmt>
+    <desc><![CDATA[<br>Here lie the remains of some of the 57 Irish railroad workers who died of violence and cholera while building the Philadelphia and Columbia Railroad in East Whiteland, Penn.<br>
+<center>August 1832</center>]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146621"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.022125" lon="-75.22413611">
+    <name><![CDATA[The Manayunk Skyline]]></name>
+    <cmt><![CDATA[On Cynwyd Heritage Trail, Bala Cynwyd, (On the right when traveling east)]]></cmt>
+    <desc><![CDATA[<br>
+Both sides of the Schuylkill River with factories, mainly dealing with fabric, paper, and steel. During the 1950s, the construction of the Schuylkill Expressway (Interstate 76) along this side of the Schuylkill River radically changed the landscape.<br><br>
+
+This bird's eye view of Manayunk, looking east from West Laurel Hill Cemetery, was published in 1907 by Fowler & Kelly.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146622"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.0227" lon="-75.22499722">
+    <name><![CDATA[Transportation Corridor in Transition]]></name>
+    <cmt><![CDATA[On Cynwyd Heritage Trail, Bala Cynwyd, (On the right when traveling east)]]></cmt>
+    <desc><![CDATA[<br><i>[The plaque consists of two photos with captions:]</i><br><br>
+
+Above: This image from the 1950s depicts a unique time in history when the three transportation corridors of this area operated concurrently. A Pennsylvania Railroad passenger train led by two GG1 locomotives crosses the Manayunk Bridge on its way to Valley Forge, before the line was inherited by SEPTA. A freight train sits on the Reading Railroad line at bottom left. Meanwhile, some of the first cars on the newly constructed Schuylkill Expressway drive towards Philadelphia.<br><br>
+
+Right: This aerial view shows the Pennsylvania Railroad's Manayunk Bridge, the Green Lane Bridge in the foreground, and the Tow Path Bridge in the distance before the construction of the Schuylkill Expressway.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146624"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.02295" lon="-75.22536389">
+    <name><![CDATA[The Spaventa Switchback]]></name>
+    <cmt><![CDATA[On Cynwyd Heritage Trail, Bala Cynwyd, (On the right when traveling west)]]></cmt>
+    <desc><![CDATA[<br>
+The Spaventa Switchback refers to the section of the Cynwyd Heritage Trail running from the Manayunk Bridge to Rock Hill Road.<br><br>
+
+The property was formerly owned by the Pennsylvania Railroad (PRR) as a spur/switchback to serve the Pencoyd Iron Works. After the PRR went bankrupt in the 1970's the property was sold for commercial development.<br><br>
+
+In 2008, Donato Spaventa sold the property to Lower Merion Township to extend the Cynwyd Heritage Trail to the intersection of Rock Hill Road and Belmont Avenue, thereby making an important connection between the trail and the Belmont Hills and College Park neighborhoods. This purchase was made using Montgomery County Open Space Funds.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146626"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.02304167" lon="-75.22553889">
+    <name><![CDATA[The "S" Bridge & The Manayunk Bridge]]></name>
+    <cmt><![CDATA[On Cynwyd Heritage Trail, Bala Cynwyd, (On the right when traveling west)]]></cmt>
+    <desc><![CDATA[<br>
+The original Pennsylvania Railroad bridge across the Schuylkill River, known as the "S" Bridge due to its shape, was constructed in 1884 as a double-track iron truss bridge that connected the West Manayunk community in Lower Merion to the Manayunk neighborhood of Philadelphia. An "S" shape curve was incorporated into the design in order to produce drag, to help slow trains which invariably had built up momentum from descending the slope from Cynwyd Station. The bridge can be seen in the two early 20th century postcards at right and the 1908 map behind.<br><br>
+
+Due to its heavier loads, which primarily consisted of freight trains carrying anthracite coal, the "S" Bridge was dismantled ca. 1918. It was replaced by the Manayunk Bridge (below), a Spanish-arch concrete bridge. This newer bridge is now fondly regarded by many as the definitive icon of Manayunk.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146628"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.02440556" lon="-75.22898889">
+    <name><![CDATA[Pencoyd Iron Works]]></name>
+    <cmt><![CDATA[On Cynwyd Heritage Trail, Bala Cynwyd, (On the right]]></cmt>
+    <desc><![CDATA[<br>The Pencoyd Iron Works was founded by Algernon and Percival Roberts, heirs of John Roberts, one of the first Welsh settlers of this region in 1683. John Roberts had named his land "Pencoyd," meaning "head of the woods" in Welsh.<br><br>
+
+In 1852, the brothers began the construction of a specialty foundry, manufacturing railroad axles along the banks of the Schuylkill River. In 1859, the business expanded to include the manufacture of iron and steel bridges. It soon became a leading bridge producer, constructing hundreds of bridges across North America, including the Pencoyd Bridge, and the famous Upper Steel Arch Bridge across Niagara Falls.<br><br>
+
+By 1883, its footprint encompassed 80 acres, including two miles of railroad tracks, and it produced products at a capacity of 35,000 tons per year. There were over 700 employees, many of whom lived nearby in company-owned workforce housing.<br><br>
+
+By 1900, Pencoyd Iron Works had attained an international reputation, and the company was acquired by J.P. Morgan's U.S. Steel Corporation in 1902. However, the business was liquidated in 1944 after years of decline that began with the Great Depression.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146631"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.02441389" lon="-75.22900278">
+    <name><![CDATA[Switchback Bridge]]></name>
+    <cmt><![CDATA[On Cynwyd Heritage Trail, Bala Cynwyd, (On the right when traveling west)]]></cmt>
+    <desc><![CDATA[<br>
+In 1891, George Brooke Roberts, a Bala Cynwyd resident and president of the Pennsylvania Railroad (PRR), ordered the construction of the Pencoyd Bridge off the Schuylkill Valley Division to the Pencoyd Iron Works. Up until that time, the iron works, owned the Percival Roberts, a cousin of the PRR president, had no choice but to use the services of the Reading Railroad, which passed by the factory as it ran along the river. The PRR branch was built solely to deliver coal and raw materials, and move out finished products for the Pencoyd Iron Works.<br><br>
+
+This section of the trail was constructed on a portion of the land that was used for the switchback between the Manayunk Bridge and the trail's terminus at Rock Hill Road and Belmont Avenue. A chunk of the Switchback Bridge was found on the trail during a 2009 clean up &#8212; an unusual find since all of the salvaged metal was thought to have been sold for reuse.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146632"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+  <wpt lat="40.02440556" lon="-75.22902778">
+    <name><![CDATA[Sebastian A. Rudolph's Ashland Paper Mill]]></name>
+    <cmt><![CDATA[On Cynwyd Heritage Trail, Bala Cynwyd, (On the right when traveling west)]]></cmt>
+    <desc><![CDATA[<br>From Theodore W. Bean's <i>History of Montgomery County,</i> "Manufacturing Industries" (1884):<br>
+<blockquote><i>
+"These well known mills are situated on the Rockhill Creek [now Gully Run], close to the River road, and are better known by the name of Rudolph's Mills. In old times they were used for the making of dye-woods, and were known as Ashland Dye-Wood Mills. In 1860 they came into the hands of the present proprietor, A.S. Rudolph, who gradually increased the capacity of the mills until they have assumed their present proportions. Their specialty is newspaper material, of which they manufacture one hundred and eighty-five tons a month."
+</i></blockquote><br>
+
+Paper of every description was made here from straw, wood, recycled cotton rags, and waste paper. The mill supplied paper to Philadelphia's newspapers. The Superintendent and the hands lived in dwellings on the premises, known as Rudolph's Row. Remains of the mill and workers' housing were destroyed by the construction of the Schuylkill Expressway.]]></desc>
+    <link href="https://www.hmdb.org/m.asp?m=146634"></link>
+    <sym>Waypoint</sym>
+  </wpt>
+
+
+</gpx>
