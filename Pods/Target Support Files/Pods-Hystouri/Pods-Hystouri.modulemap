@@ -1,4 +1,4 @@
-framework module Pods_Hystouri {
+module Pods_Hystouri {
   umbrella header "Pods-Hystouri-umbrella.h"
 
   export *
